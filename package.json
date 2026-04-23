@@ -1,0 +1,11 @@
+{
+  "name": "prh-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify"
+  },
+  "dependencies": {
+    "hugo-bin": "^0.138.0"
+  }
+}
