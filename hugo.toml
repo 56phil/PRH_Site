@@ -1,0 +1,31 @@
+baseURL = 'https://prhuffman.ghost.io'
+languageCode = 'en-us'
+title = 'PRH Site'
+theme = 'PaperMod'
+
+[params]
+  author = 'Phil Huffman'
+  description = 'Writings on Stoicism, philosophy, and life'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.profileMode]
+    enabled = true
+    title = 'PRH Site'
+    subtitle = 'Writings on Stoicism, philosophy, and the pursuit of a well-lived life'
+
+  [[params.socialIcons]]
+    name = 'website'
+    url = 'https://huffmanwrites.org'
