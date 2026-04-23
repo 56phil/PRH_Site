@@ -21,11 +21,27 @@ theme = 'PaperMod'
   showtoc = true
   tocopen = false
 
-  [params.profileMode]
-    enabled = true
-    title = 'PRH Site'
-    subtitle = 'Writings on Stoicism, philosophy, and the pursuit of a well-lived life'
+  [params.homeInfoParams]
+    Title = "PRH Site"
+    Content = "Writings on Stoicism, philosophy, and the pursuit of a well-lived life"
 
   [[params.socialIcons]]
     name = 'website'
     url = 'https://huffmanwrites.org'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 30
