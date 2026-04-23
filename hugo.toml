@@ -1,4 +1,4 @@
-baseURL = 'https://prhuffman.ghost.io'
+baseURL = 'https://huffmanwrites.org'
 languageCode = 'en-us'
 title = 'PRH Site'
 theme = 'PaperMod'
