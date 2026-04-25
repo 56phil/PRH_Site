@@ -15,10 +15,6 @@ on:
 permissions:
   contents: write
 
-env:
-  GHOST_API_URL: https://prhuffman.ghost.io
-  # GHOST_ADMIN_API_KEY must be set as a GitHub repository secret
-
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -66,17 +62,6 @@ jobs:
           
           echo "published=$BASENAME" >> "$GITHUB_OUTPUT"
           echo "date=$SATURDAY" >> "$GITHUB_OUTPUT"
-
-      - name: Install Python Markdown
-        run: pip install markdown
-
-      - name: Publish to Ghost newsletter
-        if: steps.check.outputs.has_draft == 'true' && !inputs.dry_run
-        continue-on-error: true
-        env:
-          GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
-        run: |
-          python .github/scripts/publish-to-ghost.py "content/posts/${{ steps.publish.outputs.published }}"
 
       - name: Commit and push
         if: steps.check.outputs.has_draft == 'true' && !inputs.dry_run
