@@ -2,8 +2,8 @@ name: Publish Stoic Saturday
 
 on:
   schedule:
-    # Friday at 14:00 UTC = 9:00 AM CDT (preps for Saturday)
-    - cron: '0 14 * * 5'
+    # Friday at 14:00 CDT (UTC-5) = 19:00 UTC (preps for Saturday)
+    - cron: '0 19 * * 5'
   workflow_dispatch:
     inputs:
       dry_run:
