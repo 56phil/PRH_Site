@@ -1,0 +1,78 @@
+name: Publish Stoic Saturday
+
+on:
+  schedule:
+    # Friday at 17:00 UTC = noon CDT (preps for Saturday)
+    - cron: '0 17 * * 5'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run — do not commit changes'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for drafts
+        id: check
+        run: |
+          DRAFT_DIR="content/drafts/stoic-saturday"
+          if [ ! -d "$DRAFT_DIR" ] || [ -z "$(ls -A "$DRAFT_DIR" 2>/dev/null)" ]; then
+            echo "No drafts found in $DRAFT_DIR"
+            echo "has_draft=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "has_draft=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publish next draft
+        if: steps.check.outputs.has_draft == 'true'
+        id: publish
+        run: |
+          DRAFT_DIR="content/drafts/stoic-saturday"
+          POSTS_DIR="content/posts"
+          
+          # Get next draft (sorted by filename)
+          NEXT_DRAFT=$(ls -1 "$DRAFT_DIR"/*.md | sort | head -n 1)
+          BASENAME=$(basename "$NEXT_DRAFT")
+          
+          echo "Found draft: $BASENAME"
+          
+          # Compute Saturday date (tomorrow from Friday)
+          SATURDAY=$(date -u -d "tomorrow" +%Y-%m-%d)
+          SATURDAY_FULL="${SATURDAY}T12:00:00-05:00"
+          
+          echo "Publishing for Saturday: $SATURDAY_FULL"
+          
+          # Update date in frontmatter
+          sed -i "s/^date:.*/date: ${SATURDAY_FULL}/" "$NEXT_DRAFT"
+          
+          # Move to posts directory
+          mv "$NEXT_DRAFT" "$POSTS_DIR/$BASENAME"
+          
+          echo "published=$BASENAME" >> "$GITHUB_OUTPUT"
+          echo "date=$SATURDAY" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.check.outputs.has_draft == 'true' && !inputs.dry_run
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git commit -m "Publish Stoic Saturday ${{ steps.publish.outputs.date }} (${{ steps.publish.outputs.published }})"
+          git push
+
+      - name: Dry run summary
+        if: steps.check.outputs.has_draft == 'true' && inputs.dry_run
+        run: |
+          echo "DRY RUN: Would publish ${{ steps.publish.outputs.published }} for ${{ steps.publish.outputs.date }}"
