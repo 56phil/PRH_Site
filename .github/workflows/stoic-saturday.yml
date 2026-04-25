@@ -72,6 +72,7 @@ jobs:
 
       - name: Publish to Ghost newsletter
         if: steps.check.outputs.has_draft == 'true' && !inputs.dry_run
+        continue-on-error: true
         env:
           GHOST_ADMIN_API_KEY: ${{ secrets.GHOST_ADMIN_API_KEY }}
         run: |
