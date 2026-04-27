@@ -29,6 +29,11 @@ theme = 'PaperMod'
     name = 'website'
     url = 'https://huffmanwrites.org'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = 'home'

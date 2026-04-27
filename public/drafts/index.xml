@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drafts on PRH Site</title>
+    <link>https://huffmanwrites.org/drafts/</link>
+    <description>Recent content in Drafts on PRH Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2026 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://huffmanwrites.org/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoic Saturday #2</title>
+      <link>https://huffmanwrites.org/drafts/stoic-saturday/stoic-saturday-2/</link>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 -0500</pubDate>
+      <guid>https://huffmanwrites.org/drafts/stoic-saturday/stoic-saturday-2/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It is not things that disturb us, but our judgments about things.&amp;rdquo;
+— Epictetus, Enchiridion&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You get cut off in traffic. Your boss sends a terse email. The waiter brings the wrong order.&lt;/p&gt;
+&lt;p&gt;You tell yourself these things &lt;em&gt;make&lt;/em&gt; you angry, anxious, frustrated. They don&amp;rsquo;t. They are just events. Neutral facts in a vast and indifferent universe. What disturbs you is the story you instantly, automatically attach to them.&lt;/p&gt;
+&lt;p&gt;The driver &lt;em&gt;disrespected&lt;/em&gt; you. Your boss &lt;em&gt;must be&lt;/em&gt; unhappy with your work. The waiter &lt;em&gt;ruined&lt;/em&gt; your evening. None of these narratives are in the event itself. You manufactured them in milliseconds, and your body responded to the fiction as if it were fact.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://huffmanwrites.org/drafts/stoic-saturday/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huffmanwrites.org/drafts/stoic-saturday/readme/</guid>
+      <description>&lt;h1 id=&#34;stoic-saturday-drafts&#34;&gt;Stoic Saturday Drafts&lt;/h1&gt;
+&lt;p&gt;Place future Stoic Saturday posts here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Naming:&lt;/strong&gt; &lt;code&gt;stoic-saturday-N.md&lt;/code&gt; where N is the issue number.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Every Friday at noon CDT, the workflow checks for drafts.
+&lt;strong&gt;What:&lt;/strong&gt; The workflow moves the next draft to &lt;code&gt;content/posts/&lt;/code&gt;, updates the date to the upcoming Saturday, and triggers the site rebuild.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t commit a post to &lt;code&gt;content/posts/&lt;/code&gt; manually if you want the workflow to handle it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
