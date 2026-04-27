@@ -11,7 +11,7 @@ date: 2026-03-14T00:00:00Z
 .phbooks .phbooks-cover a { display: block; }
 .phbooks .phbooks-cover img { width: 90px !important; height: auto !important; display: block !important; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.12); }
 .phbooks .phbooks-info { flex: 1 1 auto !important; min-width: 0; }
-.phbooks .phbooks-title { font-size: 1.1rem !important; font-style: italic; font-weight: bold; margin: 0 0 0.4rem 0 !important; color: #1a1a1a; }
+.phbooks .phbooks-title { font-size: 1.1rem !important; font-style: italic; font-weight: bold; margin: 0 0 0.4rem 0 !important; color: #FAEBD7; }
 .phbooks .phbooks-badge { font-style: normal; font-weight: normal; font-size: 0.72rem; background: #e8e5df; color: #666; padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
 .phbooks .phbooks-desc { font-size: 0.95rem !important; color: #444; line-height: 1.7; margin: 0 !important; }
 .phbooks .phbooks-link { display: inline-block; margin-top: 0.6rem; font-size: 0.85rem; color: #b5762a !important; text-decoration: none !important; font-family: Arial, sans-serif; }
@@ -21,7 +21,7 @@ date: 2026-03-14T00:00:00Z
 
 <div class="phbooks">
 <div class="phbooks-intro">
-Seven books. Different subjects, different tones — but the same underlying preoccupations: clarity, proportion, and the work of living well. Browse below, and if something catches your attention, the cover image will take you to Amazon.
+Eight books. Different subjects, different tones — but the same underlying preoccupations: clarity, proportion, and the work of living well. Browse below, and if something catches your attention, the cover image will take you to Amazon.
 </div>
 
 <div class="phbooks-book">
@@ -29,6 +29,15 @@ Seven books. Different subjects, different tones — but the same underlying pre
 <div class="phbooks-info">
 <div class="phbooks-title">On Proportion <span class="phbooks-badge">forthcoming</span></div>
 <div class="phbooks-desc">A meditation on balance — moral, civic, and personal. The argument at its heart is simple but far-reaching: disorder in public life and private character begins when proportion is lost, and restoration begins with disciplined judgment, measured speech, and rightly ordered priorities.</div>
+</div>
+</div>
+
+<div class="phbooks-book">
+<div class="phbooks-cover"><a href="https://www.amazon.com/dp/B0GXW6KRDH/"><img src="https://m.media-amazon.com/images/P/B0GXW6KRDH.01._SX300_.jpg"></a></div>
+<div class="phbooks-info">
+<div class="phbooks-title">Stoic Backgammon</div>
+<div class="phbooks-desc">Where the ancient game meets ancient philosophy. A practical exploration of how Stoic principles — accepting what the dice give you, focusing on what you control, and keeping your composure when fortune turns — apply both at the board and in life.</div>
+<a class="phbooks-link" href="https://www.amazon.com/dp/B0GXW6KRDH/">View on Amazon</a>
 </div>
 </div>
 
