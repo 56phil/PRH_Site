@@ -1,7 +1,9 @@
 baseURL = 'https://huffmanwrites.org'
+defaultContentLanguage = 'en'
 languageCode = 'en-us'
-title = 'PRH Site'
+title = 'Huffman Writes'
 theme = 'PaperMod'
+pluralizeListTitles = false
 
 [params]
   author = 'Phil Huffman'
@@ -22,7 +24,7 @@ theme = 'PaperMod'
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "PRH Site"
+    Title = "Huffman Writes"
     Content = "Writings on Stoicism, philosophy, and the pursuit of a well-lived life"
 
   [[params.socialIcons]]
@@ -33,6 +35,15 @@ theme = 'PaperMod'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ['HTML', 'RSS']
+  page = ['HTML']
 
 [menu]
   [[menu.main]]
