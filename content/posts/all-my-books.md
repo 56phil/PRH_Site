@@ -3,21 +3,7 @@ title: "All My Books"
 date: 2026-03-14T00:00:00Z
 ---
 
-<style>
-.phbooks { font-family: Georgia, serif; color: #2c2c2c; line-height: 1.7; }
-.phbooks .phbooks-intro { font-size: 1rem; color: #555; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd; }
-.phbooks .phbooks-book { display: flex !important; flex-direction: row !important; gap: 1.5rem; padding: 1.5rem 0; border-bottom: 1px solid #e8e5e0; align-items: flex-start !important; }
-.phbooks .phbooks-cover { flex: 0 0 90px !important; width: 90px !important; }
-.phbooks .phbooks-cover a { display: block; }
-.phbooks .phbooks-cover img { width: 90px !important; height: auto !important; display: block !important; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.12); }
-.phbooks .phbooks-info { flex: 1 1 auto !important; min-width: 0; }
-.phbooks .phbooks-title { font-size: 1.1rem !important; font-style: italic; font-weight: bold; margin: 0 0 0.4rem 0 !important; color: #FAEBD7; }
-.phbooks .phbooks-badge { font-style: normal; font-weight: normal; font-size: 0.72rem; background: #e8e5df; color: #666; padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
-.phbooks .phbooks-desc { font-size: 0.95rem !important; color: #444; line-height: 1.7; margin: 0 !important; }
-.phbooks .phbooks-link { display: inline-block; margin-top: 0.6rem; font-size: 0.85rem; color: #b5762a !important; text-decoration: none !important; font-family: Arial, sans-serif; }
-.phbooks .phbooks-link:hover { text-decoration: underline !important; }
-.phbooks .phbooks-link::after { content: ' ↗'; }
-</style>
+<link rel="stylesheet" href="/css/phbooks.css">
 
 <div class="phbooks">
 <div class="phbooks-intro">
