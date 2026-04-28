@@ -1,396 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on PRH Site</title>
-    <link>https://huffmanwrites.org/posts/</link>
-    <description>Recent content in Posts on PRH Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://huffmanwrites.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stoic Backgammon is Live</title>
-      <link>https://huffmanwrites.org/posts/stoic-backgammon-live/</link>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/stoic-backgammon-live/</guid>
-      <description>&lt;h1 id=&#34;stoic-backgammon-is-live&#34;&gt;Stoic Backgammon is Live&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on PRH Site</title><link>https://huffmanwrites.org/posts/</link><description>Recent content in Posts on PRH Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://huffmanwrites.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Stoic Backgammon is Live</title><link>https://huffmanwrites.org/posts/stoic-backgammon-live/</link><pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/stoic-backgammon-live/</guid><description>&lt;h1 id="stoic-backgammon-is-live"&gt;Stoic Backgammon is Live&lt;/h1&gt;
 &lt;p&gt;The dice choose the numbers. You choose the move.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Stoic Backgammon&lt;/strong&gt; is now available on Amazon. Hardcover is live now; paperback and Kindle coming in June.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;This book is not a strategy guide with philosophy sprinkled on top. It is not a Stoicism book with dice metaphors. It is both, and it is neither. Nine chapters, each built around a backgammon concept and a Stoic principle. The anchor. The blitz. The prime. The bear-off.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stoic Saturday #1</title>
-      <link>https://huffmanwrites.org/posts/digest-for-april-18-2026/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-april-18-2026/</guid>
-      <description>&lt;p&gt;Subject: The Pause&lt;/p&gt;
+&lt;p&gt;This book is not a strategy guide with philosophy sprinkled on top. It is not a Stoicism book with dice metaphors. It is both, and it is neither. Nine chapters, each built around a backgammon concept and a Stoic principle. The anchor. The blitz. The prime. The bear-off.&lt;/p&gt;</description></item><item><title>Stoic Saturday #1</title><link>https://huffmanwrites.org/posts/digest-for-april-18-2026/</link><pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-april-18-2026/</guid><description>&lt;p&gt;Subject: The Pause&lt;/p&gt;
 &lt;p&gt;“You have power over your mind—not outside events. Realize this, and you will find strength.”
 — Marcus Aurelius, Meditations 7.68
 There’s a moment between stimulus and response where everything lives.&lt;/p&gt;
 &lt;p&gt;Someone cuts you off in traffic. Your chest tightens, your foot tenses toward the brake, your jaw clenches. That’s the stimulus. What happens next is up to you.&lt;/p&gt;
-&lt;p&gt;Most people don’t know the pause exists. They move straight from event to reaction—anger to horn, frustration to sharp word, anxiety to scroll. They’re not choosing; they’re being pulled.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>On AI as a Writing Assistant</title>
-      <link>https://huffmanwrites.org/posts/on-ai-as-a-writing-assistant/</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/on-ai-as-a-writing-assistant/</guid>
-      <description>&lt;p&gt;I did not set out to use artificial intelligence as part of my writing process.&lt;/p&gt;
-&lt;p&gt;Like most things in my work, it began as a practical response to a problem. I was trying to clarify an idea—tighten an argument that felt structurally sound but poorly expressed. The tool I was using responded with something unexpected: not just a rephrasing, but a reframing. It wasn’t always correct. Often it wasn’t. But it forced a different question:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>All My Books</title>
-      <link>https://huffmanwrites.org/posts/all-my-books/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/all-my-books/</guid>
-      <description>&lt;style&gt;
-.phbooks { font-family: Georgia, serif; color: #2c2c2c; line-height: 1.7; }
-.phbooks .phbooks-intro { font-size: 1rem; color: #555; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ddd; }
-.phbooks .phbooks-book { display: flex !important; flex-direction: row !important; gap: 1.5rem; padding: 1.5rem 0; border-bottom: 1px solid #e8e5e0; align-items: flex-start !important; }
-.phbooks .phbooks-cover { flex: 0 0 90px !important; width: 90px !important; }
-.phbooks .phbooks-cover a { display: block; }
-.phbooks .phbooks-cover img { width: 90px !important; height: auto !important; display: block !important; border: 1px solid #ccc; box-shadow: 2px 2px 5px rgba(0,0,0,0.12); }
-.phbooks .phbooks-info { flex: 1 1 auto !important; min-width: 0; }
-.phbooks .phbooks-title { font-size: 1.1rem !important; font-style: italic; font-weight: bold; margin: 0 0 0.4rem 0 !important; color: #1a1a1a; }
-.phbooks .phbooks-badge { font-style: normal; font-weight: normal; font-size: 0.72rem; background: #e8e5df; color: #666; padding: 2px 6px; border-radius: 3px; margin-left: 6px; vertical-align: middle; }
-.phbooks .phbooks-desc { font-size: 0.95rem !important; color: #444; line-height: 1.7; margin: 0 !important; }
-.phbooks .phbooks-link { display: inline-block; margin-top: 0.6rem; font-size: 0.85rem; color: #b5762a !important; text-decoration: none !important; font-family: Arial, sans-serif; }
-.phbooks .phbooks-link:hover { text-decoration: underline !important; }
-.phbooks .phbooks-link::after { content: &#39; ↗&#39;; }
-&lt;/style&gt;
-&lt;div class=&#34;phbooks&#34;&gt;
-&lt;div class=&#34;phbooks-intro&#34;&gt;
-Seven books. Different subjects, different tones — but the same underlying preoccupations: clarity, proportion, and the work of living well. Browse below, and if something catches your attention, the cover image will take you to Amazon.
+&lt;p&gt;Most people don’t know the pause exists. They move straight from event to reaction—anger to horn, frustration to sharp word, anxiety to scroll. They’re not choosing; they’re being pulled.&lt;/p&gt;</description></item><item><title>On AI as a Writing Assistant</title><link>https://huffmanwrites.org/posts/on-ai-as-a-writing-assistant/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/on-ai-as-a-writing-assistant/</guid><description>&lt;p&gt;I did not set out to use artificial intelligence as part of my writing process.&lt;/p&gt;
+&lt;p&gt;Like most things in my work, it began as a practical response to a problem. I was trying to clarify an idea—tighten an argument that felt structurally sound but poorly expressed. The tool I was using responded with something unexpected: not just a rephrasing, but a reframing. It wasn’t always correct. Often it wasn’t. But it forced a different question:&lt;/p&gt;</description></item><item><title>All My Books</title><link>https://huffmanwrites.org/posts/all-my-books/</link><pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/all-my-books/</guid><description>&lt;link rel="stylesheet" href="https://huffmanwrites.org/css/phbooks.css"&gt;
+&lt;div class="phbooks"&gt;
+&lt;div class="phbooks-intro"&gt;
+Eight books. Different subjects, different tones — but the same underlying preoccupations: clarity, proportion, and the work of living well. Browse below, and if something catches your attention, the cover image will take you to Amazon.
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;img src=&#34;https://huffmanwrites.org/img/books/on-proportion.png&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;On Proportion &lt;span class=&#34;phbooks-badge&#34;&gt;forthcoming&lt;/span&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;A meditation on balance — moral, civic, and personal. The argument at its heart is simple but far-reaching: disorder in public life and private character begins when proportion is lost, and restoration begins with disciplined judgment, measured speech, and rightly ordered priorities.&lt;/div&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;img src="https://huffmanwrites.org/img/books/on-proportion.png"&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;On Proportion &lt;span class="phbooks-badge"&gt;forthcoming&lt;/span&gt;&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;A meditation on balance — moral, civic, and personal. The argument at its heart is simple but far-reaching: disorder in public life and private character begins when proportion is lost, and restoration begins with disciplined judgment, measured speech, and rightly ordered priorities.&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Letters-Without-Outcome-Philip-Huffman/dp/B0GLNWT4N7/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0GLNWT4N7.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;Letters&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;A collection of unsent letters addressed to significant individuals. Some things are easier to say when you&#39;re not expecting a reply.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Letters-Without-Outcome-Philip-Huffman/dp/B0GLNWT4N7/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/dp/B0GXW6KRDH/"&gt;&lt;img src="https://huffmanwrites.org/img/books/stoic-backgammon.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;Stoic Backgammon&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;Where the ancient game meets ancient philosophy. A practical exploration of how Stoic principles — accepting what the dice give you, focusing on what you control, and keeping your composure when fortune turns — apply both at the board and in life.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/dp/B0GXW6KRDH/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Misaligned-Subject-Adjective-Disastrous-Result/dp/B0GLX9JS3V/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0GLX9JS3V.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;Misaligned&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;A memoir about how early experiences, loss, and misunderstanding can quietly shape a life — and how clarity sometimes arrives decades later than you&#39;d like.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Misaligned-Subject-Adjective-Disastrous-Result/dp/B0GLX9JS3V/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Letters-Without-Outcome-Philip-Huffman/dp/B0GLNWT4N7/"&gt;&lt;img src="https://huffmanwrites.org/img/books/letters.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;Letters&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;A collection of unsent letters addressed to significant individuals. Some things are easier to say when you're not expecting a reply.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Letters-Without-Outcome-Philip-Huffman/dp/B0GLNWT4N7/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Stoic-CGM-Data-Driven-Reinventing-Yourself/dp/B0G6G12GPW/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0G6G12GPW.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;The Stoic CGM&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;A practical Stoic approach to using a continuous glucose monitor: observing without drama, running small experiments, making steady changes. Part data, part mindset — aimed at consistency rather than perfection.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Stoic-CGM-Data-Driven-Reinventing-Yourself/dp/B0G6G12GPW/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Misaligned-Subject-Adjective-Disastrous-Result/dp/B0GLX9JS3V/"&gt;&lt;img src="https://huffmanwrites.org/img/books/misaligned.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;Misaligned&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;A memoir about how early experiences, loss, and misunderstanding can quietly shape a life — and how clarity sometimes arrives decades later than you'd like.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Misaligned-Subject-Adjective-Disastrous-Result/dp/B0GLX9JS3V/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Stoic-Citizen-Philip-Huffman-ebook/dp/B0G3LTQ8B6/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0G3LTQ8B6.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;The Stoic Citizen&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;Stoicism as a framework for living with judgment, dignity, and responsibility — in relationships, health, and public life. More reflective than prescriptive.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Stoic-Citizen-Philip-Huffman-ebook/dp/B0G3LTQ8B6/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Stoic-CGM-Data-Driven-Reinventing-Yourself/dp/B0G6G12GPW/"&gt;&lt;img src="https://huffmanwrites.org/img/books/stoic-cgm.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;The Stoic CGM&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;A practical Stoic approach to using a continuous glucose monitor: observing without drama, running small experiments, making steady changes. Part data, part mindset — aimed at consistency rather than perfection.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Stoic-CGM-Data-Driven-Reinventing-Yourself/dp/B0G6G12GPW/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Life-Made-Whole-Strength-Resilience-ebook/dp/B0G2GLKKCQ/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0G2GLKKCQ.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;A Life Made Whole&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;An integration book for neurodivergent readers: how to bring the scattered parts of a life — work, health, relationships, meaning — into alignment. Less about hacks, more about acceptance and long-term direction.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Life-Made-Whole-Strength-Resilience-ebook/dp/B0G2GLKKCQ/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Stoic-Citizen-Philip-Huffman-ebook/dp/B0G3LTQ8B6/"&gt;&lt;img src="https://huffmanwrites.org/img/books/stoic-citizen.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;The Stoic Citizen&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;Stoicism as a framework for living with judgment, dignity, and responsibility — in relationships, health, and public life. More reflective than prescriptive.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Stoic-Citizen-Philip-Huffman-ebook/dp/B0G3LTQ8B6/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;phbooks-book&#34;&gt;
-&lt;div class=&#34;phbooks-cover&#34;&gt;&lt;a href=&#34;https://www.amazon.com/Unstuck-Brutal-Guidance-Getting-Your-ebook/dp/B0DYL1G7HQ/&#34;&gt;&lt;img src=&#34;https://m.media-amazon.com/images/P/B0DYL1G7HQ.01._SX300_.jpg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&#34;phbooks-info&#34;&gt;
-&lt;div class=&#34;phbooks-title&#34;&gt;Unstuck&lt;/div&gt;
-&lt;div class=&#34;phbooks-desc&#34;&gt;Where it started. Direct, practical, and unsentimental — about the habits and narratives that keep us stuck, and how to change without pep talks or fluff.&lt;/div&gt;
-&lt;a class=&#34;phbooks-link&#34; href=&#34;https://www.amazon.com/Unstuck-Brutal-Guidance-Getting-Your-ebook/dp/B0DYL1G7HQ/&#34;&gt;View on Amazon&lt;/a&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Life-Made-Whole-Strength-Resilience-ebook/dp/B0G2GLKKCQ/"&gt;&lt;img src="https://huffmanwrites.org/img/books/life-made-whole.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;A Life Made Whole&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;An integration book for neurodivergent readers: how to bring the scattered parts of a life — work, health, relationships, meaning — into alignment. Less about hacks, more about acceptance and long-term direction.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Life-Made-Whole-Strength-Resilience-ebook/dp/B0G2GLKKCQ/"&gt;View on Amazon&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Digest for January 2, 2026</title>
-      <link>https://huffmanwrites.org/posts/digest-for-january-2-2026/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-january-2-2026/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection&#34;&gt;🪞 A Reflection&lt;/h2&gt;
-&lt;h2 id=&#34;the-clearest-high-point-of-2025-was-finally-giving-my-writing-the-honesty-it-had-been-waiting-for-i-stopped-circling-the-truth-and-began-trusting-it-pages-that-had-stalled-for-years-moved-once-i-allowed-myself-to-write-without-self-protection-or-apology-writing-became-less-about-producing-and-more-about-listeningstaying-present-long-enough-for-the-right-sentences-to-surface-much-of-that-work-is-finding-its-way-into-misaligned-a-book-i-plan-to-publish-on-june-10-2026-shaped-by-questions-ive-carried-for-decades-the-year-didnt-resolve-my-story-but-it-helped-me-tell-it-more-truthfully&#34;&gt;The clearest high point of 2025 was finally giving my writing the honesty it had been waiting for. I stopped circling the truth and began trusting it. Pages that had stalled for years moved once I allowed myself to write without self-protection or apology. Writing became less about producing and more about listening—staying present long enough for the right sentences to surface. Much of that work is finding its way into &lt;em&gt;Misaligned&lt;/em&gt;, a book I plan to publish on June 10, 2026, shaped by questions I’ve carried for decades. The year didn’t resolve my story, but it helped me tell it more truthfully.&lt;/h2&gt;
-&lt;h2 id=&#34;reflection-quiz--reading-between-the-lines-2025&#34;&gt;Reflection Quiz — Reading Between the Lines (2025)&lt;/h2&gt;
-&lt;h3 id=&#34;1-what-didnt-make-2025-a-high-point-according-to-the-reflection&#34;&gt;1. What &lt;em&gt;didn’t&lt;/em&gt; make 2025 a high point, according to the reflection?&lt;/h3&gt;
-&lt;p&gt;Show answer External recognition, dramatic change, or public milestones.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for November 14, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-november-14-2025/</link>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-november-14-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection&#34;&gt;🪞 A Reflection&lt;/h2&gt;
+&lt;div class="phbooks-book"&gt;
+&lt;div class="phbooks-cover"&gt;&lt;a href="https://www.amazon.com/Unstuck-Brutal-Guidance-Getting-Your-ebook/dp/B0DYL1G7HQ/"&gt;&lt;img src="https://huffmanwrites.org/img/books/unstuck.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class="phbooks-info"&gt;
+&lt;div class="phbooks-title"&gt;Unstuck&lt;/div&gt;
+&lt;div class="phbooks-desc"&gt;Where it started. Direct, practical, and unsentimental — about the habits and narratives that keep us stuck, and how to change without pep talks or fluff.&lt;/div&gt;
+&lt;a class="phbooks-link" href="https://www.amazon.com/Unstuck-Brutal-Guidance-Getting-Your-ebook/dp/B0DYL1G7HQ/"&gt;View on Amazon&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Digest for January 2, 2026</title><link>https://huffmanwrites.org/posts/digest-for-january-2-2026/</link><pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-january-2-2026/</guid><description>&lt;h2 id="-a-reflection"&gt;🪞 A Reflection&lt;/h2&gt;
+&lt;p&gt;The clearest high point of 2025 was finally giving my writing the honesty it had been waiting for. I stopped circling the truth and began trusting it. Pages that had stalled for years moved once I allowed myself to write without self-protection or apology. Writing became less about producing and more about listening—staying present long enough for the right sentences to surface. Much of that work is finding its way into &lt;em&gt;Misaligned&lt;/em&gt;, a book I plan to publish on June 10, 2026, shaped by questions I&amp;rsquo;ve carried for decades. The year didn&amp;rsquo;t resolve my story, but it helped me tell it more truthfully.&lt;/p&gt;</description></item><item><title>Digest for November 14, 2025</title><link>https://huffmanwrites.org/posts/digest-for-november-14-2025/</link><pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-november-14-2025/</guid><description>&lt;h2 id="-a-reflection"&gt;🪞 A Reflection&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Nearly all men can stand adversity, but if you want to test a man’s character, give him power.”&lt;/em&gt;
 — Abraham Lincoln&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Power has always been the ultimate mirror. It reflects what we are when nobody can stop us. Titles and elections make it look formal, but the real test happens in smaller, quieter places—at a desk, in a meeting, in how we handle the people who can’t fight back. That’s where character either deepens or curdles.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Starstuff: Remembering Carl Sagan</title>
-      <link>https://huffmanwrites.org/posts/starstuff-remembering-carl-sagan/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/starstuff-remembering-carl-sagan/</guid>
-      <description>&lt;blockquote&gt;
+&lt;p&gt;Power has always been the ultimate mirror. It reflects what we are when nobody can stop us. Titles and elections make it look formal, but the real test happens in smaller, quieter places—at a desk, in a meeting, in how we handle the people who can’t fight back. That’s where character either deepens or curdles.&lt;/p&gt;</description></item><item><title>Starstuff: Remembering Carl Sagan</title><link>https://huffmanwrites.org/posts/starstuff-remembering-carl-sagan/</link><pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/starstuff-remembering-carl-sagan/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“We are a way for the cosmos to know itself.”&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Carl Sagan would have turned 91 today. For millions who first met him through &lt;em&gt;Cosmos&lt;/em&gt; or the pages of &lt;em&gt;The Demon-Haunted World&lt;/em&gt;, his voice remains a beacon — calm, curious, and utterly unwilling to surrender wonder to superstition. He invited us not merely to look up, but to &lt;strong&gt;understand&lt;/strong&gt; what we saw, to marry awe with evidence.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;1--a-voice-for-the-ages&#34;&gt;&lt;strong&gt;1 · A Voice for the Ages&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Sagan’s gift was not just that he knew the universe — it was that he could make the universe knowable. At a time when science often felt remote, he made it intimate: hydrogen burning in the hearts of stars, atoms forged in supernovae finding their way into human hands. To watch him speak was to feel that curiosity itself was sacred.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for November 7, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-november-7-2025/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-november-7-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection&#34;&gt;🪞 A Reflection&lt;/h2&gt;
+&lt;h2 id="1--a-voice-for-the-ages"&gt;&lt;strong&gt;1 · A Voice for the Ages&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Sagan’s gift was not just that he knew the universe — it was that he could make the universe knowable. At a time when science often felt remote, he made it intimate: hydrogen burning in the hearts of stars, atoms forged in supernovae finding their way into human hands. To watch him speak was to feel that curiosity itself was sacred.&lt;/p&gt;</description></item><item><title>Digest for November 7, 2025</title><link>https://huffmanwrites.org/posts/digest-for-november-7-2025/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-november-7-2025/</guid><description>&lt;h2 id="-a-reflection"&gt;🪞 A Reflection&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Science is more than a body of knowledge; it’s a way of thinking, a way of skeptically interrogating the universe with a fine understanding of human fallibility.”&lt;/em&gt;
 — Carl Sagan, &lt;em&gt;The Demon-Haunted World&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&#34;reflection--the-candle-and-the-mirror&#34;&gt;&lt;strong&gt;REFLECTION — THE CANDLE AND THE MIRROR&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Carl Sagan never treated science as an escape from the world. He saw it as an act of service — a disciplined way to honor the fragile miracle of being here at all. When he called Earth a &lt;em&gt;pale blue dot&lt;/em&gt;, he wasn’t indulging in cosmic poetry; he was issuing a moral reminder. Knowledge carries responsibility. Understanding obliges care.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>International Rallies in Solidarity with U.S. Rallies</title>
-      <link>https://huffmanwrites.org/posts/international-rallies-in-solidarity-with-u-s-rallies/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/international-rallies-in-solidarity-with-u-s-rallies/</guid>
-      <description>&lt;p&gt;While the bulk of the “No Kings” protests unfolded across the United States, the movement found resonance in international communities as well — signaling that opposition to perceived authoritarianism and executive over-reach in Washington has an overseas echo.&lt;/p&gt;
-&lt;h3 id=&#34;-global-participation&#34;&gt;🌍 Global Participation&lt;/h3&gt;
-&lt;p&gt;The protest coalition behind No Kings, led in the U.S. by Indivisible and the 50501 Movement, also mobilized international chapters and diaspora groups under alternate banners such as “No Tyrants” or “No Dictators” when the word “Kings” ran the risk of confusing anti-monarchic protest abroad. (&lt;a href=&#34;https://en.wikipedia.org/wiki/No_Kings_protests_%28June_2025%29?utm_source=chatgpt.com&#34;&gt;Wikipedia&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Responsibility of a Small, Shining World</title>
-      <link>https://huffmanwrites.org/posts/the-responsibility-of-a-small-shining-world/</link>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-responsibility-of-a-small-shining-world/</guid>
-      <description>&lt;p&gt;I always knew the universe was enormous — at least in the abstract.&lt;/p&gt;
+&lt;h3 id="reflection--the-candle-and-the-mirror"&gt;&lt;strong&gt;REFLECTION — THE CANDLE AND THE MIRROR&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Carl Sagan never treated science as an escape from the world. He saw it as an act of service — a disciplined way to honor the fragile miracle of being here at all. When he called Earth a &lt;em&gt;pale blue dot&lt;/em&gt;, he wasn’t indulging in cosmic poetry; he was issuing a moral reminder. Knowledge carries responsibility. Understanding obliges care.&lt;/p&gt;</description></item><item><title>International Rallies in Solidarity with U.S. Rallies</title><link>https://huffmanwrites.org/posts/international-rallies-in-solidarity-with-u-s-rallies/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/international-rallies-in-solidarity-with-u-s-rallies/</guid><description>&lt;p&gt;While the bulk of the “No Kings” protests unfolded across the United States, the movement found resonance in international communities as well — signaling that opposition to perceived authoritarianism and executive over-reach in Washington has an overseas echo.&lt;/p&gt;
+&lt;h3 id="-global-participation"&gt;🌍 Global Participation&lt;/h3&gt;
+&lt;p&gt;The protest coalition behind No Kings, led in the U.S. by Indivisible and the 50501 Movement, also mobilized international chapters and diaspora groups under alternate banners such as “No Tyrants” or “No Dictators” when the word “Kings” ran the risk of confusing anti-monarchic protest abroad. (&lt;a href="https://en.wikipedia.org/wiki/No_Kings_protests_%28June_2025%29?utm_source=chatgpt.com"&gt;Wikipedia&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>The Responsibility of a Small, Shining World</title><link>https://huffmanwrites.org/posts/the-responsibility-of-a-small-shining-world/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-responsibility-of-a-small-shining-world/</guid><description>&lt;p&gt;I always knew the universe was enormous — at least in the abstract.&lt;/p&gt;
 &lt;p&gt;But it took Carl Sagan to make me &lt;em&gt;feel&lt;/em&gt; it. Not as trivia, but as orientation. Not as a chapter in a book, but as a posture in life.&lt;/p&gt;
 &lt;p&gt;Sagan didn’t say, &lt;em&gt;look at the stars.&lt;/em&gt;
 He said, &lt;em&gt;look at us because of the stars.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;There’s a difference.
 One informs.
 The other transforms.&lt;/p&gt;
-&lt;p&gt;As the world gets louder and more certain of itself, I return to Sagan — not for nostalgia, but calibration. He wasn’t offering escape. He was offering proportion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Small Planet, Big Responsibility</title>
-      <link>https://huffmanwrites.org/posts/small-planet-big-responsibility/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/small-planet-big-responsibility/</guid>
-      <description>&lt;p&gt;Look again at that pale blue dot.&lt;/p&gt;
+&lt;p&gt;As the world gets louder and more certain of itself, I return to Sagan — not for nostalgia, but calibration. He wasn’t offering escape. He was offering proportion.&lt;/p&gt;</description></item><item><title>Small Planet, Big Responsibility</title><link>https://huffmanwrites.org/posts/small-planet-big-responsibility/</link><pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/small-planet-big-responsibility/</guid><description>&lt;p&gt;Look again at that pale blue dot.&lt;/p&gt;
 &lt;p&gt;A speck suspended in sunlight.
 Every person you’ve ever loved.
 Every shout, every triumph, every quiet act of grace.
 All of it, balanced on a pixel.&lt;/p&gt;
 &lt;p&gt;Distance compresses us. It turns conflict into noise and perspective into truth. From out there, certainty looks small. Humility looks like intelligence. Curiosity looks like courage.&lt;/p&gt;
 &lt;p&gt;The Pale Blue Dot does not diminish us.
-It clarifies us.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for October 17, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-october-17-2025/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-october-17-2025/</guid>
-      <description>&lt;h2 id=&#34;-reflection-the-contributions-of-invasive-humans&#34;&gt;🌎 &lt;strong&gt;Reflection: The Contributions of Invasive Humans&lt;/strong&gt;&lt;/h2&gt;
+It clarifies us.&lt;/p&gt;</description></item><item><title>Digest for October 17, 2025</title><link>https://huffmanwrites.org/posts/digest-for-october-17-2025/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-october-17-2025/</guid><description>&lt;h2 id="-reflection-the-contributions-of-invasive-humans"&gt;🌎 &lt;strong&gt;Reflection: The Contributions of Invasive Humans&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Last Monday was Indigenous Peoples Day, which means we once again pretended that reflection counts as redemption. Politicians tweeted something solemn, schools trotted out platitudes, and by early Tuesday we were back to bulldozing what was left.&lt;/p&gt;
-&lt;p&gt;History books call it exploration. The truth is simpler — invasion with better PR. We arrived, took what wasn’t ours, renamed everything, and congratulated ourselves for our courage. The native peoples gave us corn, medicine, and balance. We gave them disease, treaties written in disappearing ink, and a few casinos to make the math look fair.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thousands rally in Kansas City at second “No Kings” demonstration</title>
-      <link>https://huffmanwrites.org/posts/thousands-rally-in-kansas-city-at-second-no-kings-demonstration/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/thousands-rally-in-kansas-city-at-second-no-kings-demonstration/</guid>
-      <description>&lt;p&gt;On Saturday afternoon, hundreds (and by some accounts thousands) of people gathered at the Country Club Plaza in Kansas City, Missouri, for the second wave of the nationwide “No Kings” protests — a coordinated effort of demonstrations held in over 2,600 U.S. locations. (&lt;a href=&#34;https://www.reuters.com/world/us/no-kings-rallies-expected-draw-millions-across-us-protest-against-trump-2025-10-18/?utm_source=chatgpt.com&#34;&gt;Reuters&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;The local event, organized by Indivisible Kansas City’s founder Beverly Harvey, kicked off around 2 p.m. and emphasized that the movement was about defending democracy — not creating a spectacle. “We’re not going to bow down to a dictator,” she told the crowd. “We’re going to rise up… until this dictatorship is gone.” (&lt;a href=&#34;https://www.kcur.org/news/2025-10-18/no-kings-protests-kansas-city-2?utm_source=chatgpt.com&#34;&gt;KCUR&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Indigenous Peoples Day</title>
-      <link>https://huffmanwrites.org/posts/indigenous-peoples-day/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/indigenous-peoples-day/</guid>
-      <description>&lt;h2 id=&#34;-the-new-world-that-wasnt&#34;&gt;🌍 &lt;strong&gt;The New World That Wasn’t&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;History books call it exploration. The truth is simpler — invasion with better PR. We arrived, took what wasn’t ours, renamed everything, and congratulated ourselves for our courage. The native peoples gave us corn, medicine, and balance. We gave them disease, treaties written in disappearing ink, and a few casinos to make the math look fair.&lt;/p&gt;</description></item><item><title>Thousands rally in Kansas City at second “No Kings” demonstration</title><link>https://huffmanwrites.org/posts/thousands-rally-in-kansas-city-at-second-no-kings-demonstration/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/thousands-rally-in-kansas-city-at-second-no-kings-demonstration/</guid><description>&lt;p&gt;On Saturday afternoon, hundreds (and by some accounts thousands) of people gathered at the Country Club Plaza in Kansas City, Missouri, for the second wave of the nationwide “No Kings” protests — a coordinated effort of demonstrations held in over 2,600 U.S. locations. (&lt;a href="https://www.reuters.com/world/us/no-kings-rallies-expected-draw-millions-across-us-protest-against-trump-2025-10-18/?utm_source=chatgpt.com"&gt;Reuters&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The local event, organized by Indivisible Kansas City’s founder Beverly Harvey, kicked off around 2 p.m. and emphasized that the movement was about defending democracy — not creating a spectacle. “We’re not going to bow down to a dictator,” she told the crowd. “We’re going to rise up… until this dictatorship is gone.” (&lt;a href="https://www.kcur.org/news/2025-10-18/no-kings-protests-kansas-city-2?utm_source=chatgpt.com"&gt;KCUR&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Indigenous Peoples Day</title><link>https://huffmanwrites.org/posts/indigenous-peoples-day/</link><pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/indigenous-peoples-day/</guid><description>&lt;h2 id="-the-new-world-that-wasnt"&gt;🌍 &lt;strong&gt;The New World That Wasn’t&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;When Europeans stumbled onto the Americas, they didn’t find a new world. They found an old one that refused to appear on their maps. Naturally, they called it &lt;em&gt;discovery&lt;/em&gt;. It’s amazing what a little self-confidence and a complete lack of perspective can accomplish.&lt;/p&gt;
-&lt;p&gt;They arrived carrying flags, diseases, and the unshakable belief that God was their travel agent. Everything they saw became theirs by proclamation — the land, the people, even the sunsets. After all, what’s a paradise worth if you can’t rename it after a European monarch?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for October 10, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-october-10-2025/</link>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-october-10-2025/</guid>
-      <description>&lt;h2 id=&#34;-reflection-the-shutdown-showdown&#34;&gt;📰 &lt;strong&gt;Reflection: The Shutdown Showdown&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;They arrived carrying flags, diseases, and the unshakable belief that God was their travel agent. Everything they saw became theirs by proclamation — the land, the people, even the sunsets. After all, what’s a paradise worth if you can’t rename it after a European monarch?&lt;/p&gt;</description></item><item><title>Digest for October 10, 2025</title><link>https://huffmanwrites.org/posts/digest-for-october-10-2025/</link><pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-october-10-2025/</guid><description>&lt;h2 id="-reflection-the-shutdown-showdown"&gt;📰 &lt;strong&gt;Reflection: The Shutdown Showdown&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;I owe you an apology for the quiet week. No new articles, no fresh analysis — just the hum of a weary mind taking a breather. Sometimes you have to pause, even when you don’t want to.&lt;/p&gt;
-&lt;p&gt;As for Washington’s latest shutdown drama, I see no angels in this one — only the bad and the worse. It’s less about policy now and more about performance. Every speech is a jab, every soundbite a weapon. Meanwhile, regular people pay the price in stalled services, missed paychecks, and a slow erosion of trust.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for October 3, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-october-3-2025/</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-october-3-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection&#34;&gt;🪞 A Reflection&lt;/h2&gt;
+&lt;p&gt;As for Washington’s latest shutdown drama, I see no angels in this one — only the bad and the worse. It’s less about policy now and more about performance. Every speech is a jab, every soundbite a weapon. Meanwhile, regular people pay the price in stalled services, missed paychecks, and a slow erosion of trust.&lt;/p&gt;</description></item><item><title>Digest for October 3, 2025</title><link>https://huffmanwrites.org/posts/digest-for-october-3-2025/</link><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-october-3-2025/</guid><description>&lt;h2 id="-a-reflection"&gt;🪞 A Reflection&lt;/h2&gt;
 &lt;p&gt;When people talk about investing, they usually focus on charts, PE ratios, or the “hot” asset of the moment. But Morgan Housel, in &lt;em&gt;The Psychology of Money&lt;/em&gt;, reminds us that the hardest part of investing isn’t math — it’s behavior. Your emotions, your patience, and your discipline will determine more about your wealth than any spreadsheet ever will.&lt;/p&gt;
-&lt;h4 id=&#34;wealth-is-what-you-dont-see&#34;&gt;Wealth Is What You Don’t See&lt;/h4&gt;
-&lt;p&gt;Wealth isn’t the car in the driveway or the vacation photos online. Real wealth is invisible: the money you quietly didn’t spend, the patience you showed when others splurged. For retirees, that discipline decades ago is what pays dividends today.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Stoic Investor: Holding Steady When the Market Panics</title>
-      <link>https://huffmanwrites.org/posts/the-stoic-investor-holding-steady-when-the-market-panics/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-stoic-investor-holding-steady-when-the-market-panics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Psychology of Investing</title>
-      <link>https://huffmanwrites.org/posts/the-psychology-of-investing/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-psychology-of-investing/</guid>
-      <description>&lt;p&gt;Investing isn’t just a numbers game—it’s an emotional one. Charts, spreadsheets, and allocation tables give us the illusion that investing is rational. But when real money is on the line, our brains often have other plans. Market drops, headlines, and the actions of others trigger deep-seated biases that can quietly sabotage even the smartest strategies. Understanding these psychological traps—and building systems to guard against them—is every bit as important as choosing the right investments.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for September 26, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-september-26-2025/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-september-26-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection---advice-vs-theater&#34;&gt;🪞 A Reflection - Advice vs. Theater&lt;/h2&gt;
+&lt;h4 id="wealth-is-what-you-dont-see"&gt;Wealth Is What You Don’t See&lt;/h4&gt;
+&lt;p&gt;Wealth isn’t the car in the driveway or the vacation photos online. Real wealth is invisible: the money you quietly didn’t spend, the patience you showed when others splurged. For retirees, that discipline decades ago is what pays dividends today.&lt;/p&gt;</description></item><item><title>The Stoic Investor: Holding Steady When the Market Panics</title><link>https://huffmanwrites.org/posts/the-stoic-investor-holding-steady-when-the-market-panics/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-stoic-investor-holding-steady-when-the-market-panics/</guid><description/></item><item><title>The Psychology of Investing</title><link>https://huffmanwrites.org/posts/the-psychology-of-investing/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-psychology-of-investing/</guid><description>&lt;p&gt;Investing isn’t just a numbers game—it’s an emotional one. Charts, spreadsheets, and allocation tables give us the illusion that investing is rational. But when real money is on the line, our brains often have other plans. Market drops, headlines, and the actions of others trigger deep-seated biases that can quietly sabotage even the smartest strategies. Understanding these psychological traps—and building systems to guard against them—is every bit as important as choosing the right investments.&lt;/p&gt;</description></item><item><title>Digest for September 26, 2025</title><link>https://huffmanwrites.org/posts/digest-for-september-26-2025/</link><pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-september-26-2025/</guid><description>&lt;h2 id="-a-reflection---advice-vs-theater"&gt;🪞 A Reflection - Advice vs. Theater&lt;/h2&gt;
 &lt;p&gt;I still remember when placing a trade felt like walking into a marble-floored bank: handshakes, hushed voices, and a commission that quietly skimmed my returns. Traditional brokerages sold reassurance—someone to call, someone who “knew a guy.” The price of that comfort was friction.&lt;/p&gt;
-&lt;p&gt;Then the discount houses rewired the game. Zero-commission trades, index funds with fees measured in basis points, slick dashboards instead of mahogany desks. The pitch wasn’t romance; it was math. Keep costs down, keep behavior simple, let compounding work without the rake.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Comparison of Discount Brokerages</title>
-      <link>https://huffmanwrites.org/posts/a-comparison-of-discount-brokerages/</link>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/a-comparison-of-discount-brokerages/</guid>
-      <description>&lt;p&gt;Three firms dominate the discount brokerage world: &lt;strong&gt;Fidelity, Schwab, and Vanguard&lt;/strong&gt;. All three deliver low-cost investing, but each has its own identity.&lt;/p&gt;
-&lt;p&gt;Before we dive in, a note: this is simply my opinion, shaped by my own experience as an investor. I do have an account with Fidelity, but I am not affiliated with any brokerage, nor am I compensated for mentioning them. My goal is to share a straightforward comparison of the three largest discount brokerages to help you see their differences more clearly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Discount vs. Traditional Brokerages</title>
-      <link>https://huffmanwrites.org/posts/discount-vs-traditional-brokerages/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/discount-vs-traditional-brokerages/</guid>
-      <description>&lt;p&gt;For decades, investors had little choice but to work with &lt;strong&gt;traditional brokerages&lt;/strong&gt;  These firms, like Merrill Lynch or Edward Jones, that charged high commissions, emphasized personal relationships, and offered full-service financial planning. Today, &lt;strong&gt;discount brokerages&lt;/strong&gt; like Fidelity, Schwab, and Vanguard dominate, reshaping how individuals invest.&lt;/p&gt;
-&lt;h3 id=&#34;costs&#34;&gt;Costs&lt;/h3&gt;
+&lt;p&gt;Then the discount houses rewired the game. Zero-commission trades, index funds with fees measured in basis points, slick dashboards instead of mahogany desks. The pitch wasn’t romance; it was math. Keep costs down, keep behavior simple, let compounding work without the rake.&lt;/p&gt;</description></item><item><title>A Comparison of Discount Brokerages</title><link>https://huffmanwrites.org/posts/a-comparison-of-discount-brokerages/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/a-comparison-of-discount-brokerages/</guid><description>&lt;p&gt;Three firms dominate the discount brokerage world: &lt;strong&gt;Fidelity, Schwab, and Vanguard&lt;/strong&gt;. All three deliver low-cost investing, but each has its own identity.&lt;/p&gt;
+&lt;p&gt;Before we dive in, a note: this is simply my opinion, shaped by my own experience as an investor. I do have an account with Fidelity, but I am not affiliated with any brokerage, nor am I compensated for mentioning them. My goal is to share a straightforward comparison of the three largest discount brokerages to help you see their differences more clearly.&lt;/p&gt;</description></item><item><title>Discount vs. Traditional Brokerages</title><link>https://huffmanwrites.org/posts/discount-vs-traditional-brokerages/</link><pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/discount-vs-traditional-brokerages/</guid><description>&lt;p&gt;For decades, investors had little choice but to work with &lt;strong&gt;traditional brokerages&lt;/strong&gt;  These firms, like Merrill Lynch or Edward Jones, that charged high commissions, emphasized personal relationships, and offered full-service financial planning. Today, &lt;strong&gt;discount brokerages&lt;/strong&gt; like Fidelity, Schwab, and Vanguard dominate, reshaping how individuals invest.&lt;/p&gt;
+&lt;h3 id="costs"&gt;Costs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Traditional:&lt;/strong&gt; High commissions on trades, annual account fees, and sales loads on funds. A personal advisor often bundled with the account — but the cost came out of your returns.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for September 19, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-september-19-2025/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-september-19-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection-on-risk-management&#34;&gt;🪞 A Reflection on Risk Management&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Traditional:&lt;/strong&gt; High commissions on trades, annual account fees, and sales loads on funds. A personal advisor often bundled with the account — but the cost came out of your returns.&lt;/p&gt;</description></item><item><title>Digest for September 19, 2025</title><link>https://huffmanwrites.org/posts/digest-for-september-19-2025/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-september-19-2025/</guid><description>&lt;h2 id="-a-reflection-on-risk-management"&gt;🪞 A Reflection on Risk Management&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;The Balance of Risk&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Life is a series of wagers. Every day, we stake time, energy, trust, and money on outcomes we can’t fully predict. Some bets are small — trying a new café or changing our route home. Others carry heavier weight — a career shift, a relationship, a relocation. What they all share is uncertainty.&lt;/p&gt;
-&lt;p&gt;Risk management isn’t about eliminating risk. That’s impossible — and truthfully, undesirable. A life without risk is a life without growth, discovery, or meaning. The task is not to hide from uncertainty, but to face it wisely: to ask not only &lt;em&gt;“What might go wrong?”&lt;/em&gt; but also &lt;em&gt;“What might go right?”&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Risk Management in a Fragile World</title>
-      <link>https://huffmanwrites.org/posts/risk-management-in-a-fragile-world/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/risk-management-in-a-fragile-world/</guid>
-      <description>&lt;p&gt;Risk never sleeps. Markets can rise on Monday and unravel by Friday. Headlines about shutdowns, inflation, and tariffs compete with warnings from geopolitical strategists like Peter Zeihan, who argues that globalization itself is fraying. Whether you agree with his timelines or not, the underlying truth is simple: wealth isn’t built on prediction. It’s built on preparation.&lt;/p&gt;
-&lt;p&gt;Peter Zeihan is a geopolitical strategist and author best known for books like &lt;em&gt;The Accidental Superpower&lt;/em&gt; and &lt;em&gt;The End of the World Is Just the Beginning&lt;/em&gt;. His analysis blends geography and demographics to argue that the post-WWII era of globalization is breaking down. He warns that aging populations, fragile supply chains, and energy chokepoints will reshape the world economy in disruptive ways. Zeihan’s forecasts are often bold and controversial, but they serve as useful scenarios for investors to stress-test their assumptions.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Risk Management: The Investor’s Lifeline</title>
-      <link>https://huffmanwrites.org/posts/risk-management-the-investors-lifeline/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/risk-management-the-investors-lifeline/</guid>
-      <description>&lt;p&gt;Risk never sleeps. Whether markets are surging or headlines are screaming “shutdown,” the real question isn’t &lt;em&gt;what’s next?&lt;/em&gt; but &lt;em&gt;am I ready?&lt;/em&gt; Most investors focus on returns. Few spend enough time on risk. Yet it’s risk—not return—that decides whether you stay in the game long enough to win. Wealth isn’t built on predicting the future; it’s built on preparing for the unknown.&lt;/p&gt;
-&lt;p&gt;Markets are inherently uncertain. Inflation runs hotter than expected. Interest rates stick longer than forecast. Political battles threaten shutdowns. Black swans appear without warning. If your only plan is hope, then luck is running your portfolio. And luck, as every seasoned investor knows, is fickle. A risk-management framework doesn’t eliminate risk, but it ensures that no single surprise can wipe you out.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for September 12, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-september-12-2025/</link>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-september-12-2025/</guid>
-      <description>&lt;h2 id=&#34;-a-reflection-on-compound-interest&#34;&gt;🪞 A Reflection on Compound Interest&lt;/h2&gt;
+&lt;p&gt;Risk management isn’t about eliminating risk. That’s impossible — and truthfully, undesirable. A life without risk is a life without growth, discovery, or meaning. The task is not to hide from uncertainty, but to face it wisely: to ask not only &lt;em&gt;“What might go wrong?”&lt;/em&gt; but also &lt;em&gt;“What might go right?”&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Risk Management in a Fragile World</title><link>https://huffmanwrites.org/posts/risk-management-in-a-fragile-world/</link><pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/risk-management-in-a-fragile-world/</guid><description>&lt;p&gt;Risk never sleeps. Markets can rise on Monday and unravel by Friday. Headlines about shutdowns, inflation, and tariffs compete with warnings from geopolitical strategists like Peter Zeihan, who argues that globalization itself is fraying. Whether you agree with his timelines or not, the underlying truth is simple: wealth isn’t built on prediction. It’s built on preparation.&lt;/p&gt;
+&lt;p&gt;Peter Zeihan is a geopolitical strategist and author best known for books like &lt;em&gt;The Accidental Superpower&lt;/em&gt; and &lt;em&gt;The End of the World Is Just the Beginning&lt;/em&gt;. His analysis blends geography and demographics to argue that the post-WWII era of globalization is breaking down. He warns that aging populations, fragile supply chains, and energy chokepoints will reshape the world economy in disruptive ways. Zeihan’s forecasts are often bold and controversial, but they serve as useful scenarios for investors to stress-test their assumptions.&lt;/p&gt;</description></item><item><title>Risk Management: The Investor’s Lifeline</title><link>https://huffmanwrites.org/posts/risk-management-the-investors-lifeline/</link><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/risk-management-the-investors-lifeline/</guid><description>&lt;p&gt;Risk never sleeps. Whether markets are surging or headlines are screaming “shutdown,” the real question isn’t &lt;em&gt;what’s next?&lt;/em&gt; but &lt;em&gt;am I ready?&lt;/em&gt; Most investors focus on returns. Few spend enough time on risk. Yet it’s risk—not return—that decides whether you stay in the game long enough to win. Wealth isn’t built on predicting the future; it’s built on preparing for the unknown.&lt;/p&gt;
+&lt;p&gt;Markets are inherently uncertain. Inflation runs hotter than expected. Interest rates stick longer than forecast. Political battles threaten shutdowns. Black swans appear without warning. If your only plan is hope, then luck is running your portfolio. And luck, as every seasoned investor knows, is fickle. A risk-management framework doesn’t eliminate risk, but it ensures that no single surprise can wipe you out.&lt;/p&gt;</description></item><item><title>Digest for September 12, 2025</title><link>https://huffmanwrites.org/posts/digest-for-september-12-2025/</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-september-12-2025/</guid><description>&lt;h2 id="-a-reflection-on-compound-interest"&gt;🪞 A Reflection on Compound Interest&lt;/h2&gt;
 &lt;p&gt;Compound interest is often called the “eighth wonder of the world.” At first, it seems like a throwaway phrase, something to stick in a finance textbook. But when I think about it deeply, I realize that compounding is less about money and more about time.&lt;/p&gt;
-&lt;p&gt;The principle is simple: today’s growth becomes tomorrow’s foundation. A dollar earns a penny, and next year both the dollar and the penny are at work. Repeat that cycle for long enough, and the results stop being linear—they start becoming extraordinary. What once felt slow and dull accelerates into something almost unstoppable.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Dollar-Cost Averaging Beats Market Timing</title>
-      <link>https://huffmanwrites.org/posts/why-dollar-cost-averaging-beats-market-timing/</link>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/why-dollar-cost-averaging-beats-market-timing/</guid>
-      <description>&lt;p&gt;“If only I had bought at the bottom.” It’s a thought nearly every investor has had at some point. The allure of perfect timing is powerful: buy low, sell high, and retire rich. The trouble is, nobody—not even seasoned professionals—consistently calls market tops and bottoms. What ordinary investors can do, however, is embrace a disciplined, proven strategy that turns the market’s swings into a friend rather than a foe. That strategy is dollar-cost averaging.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Starting to Invest After Retirement</title>
-      <link>https://huffmanwrites.org/posts/starting-to-invest-after-retirement/</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/starting-to-invest-after-retirement/</guid>
-      <description>&lt;p&gt;I used to believe investing was something you did while you worked. You built a nest egg, retired, and lived off it. Simple. But when retirement arrived, I quickly learned the story doesn’t end there. Retirement isn’t the finish line—it’s the start of a new chapter. And in this chapter, investing takes on a different purpose.&lt;/p&gt;
-&lt;p&gt;For me, Social Security is the backbone of retirement. It’s steady, predictable, and deeply reassuring. I also receive book royalties, though they’re so modest they don’t change the math. Still, those checks remind me that something I created lives on, even if only in small ways.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Russia’s Diplomatic Gambit in the Arctic</title>
-      <link>https://huffmanwrites.org/posts/russias-diplomatic-gambit-in-the-arctic/</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/russias-diplomatic-gambit-in-the-arctic/</guid>
-      <description>&lt;p&gt;For much of the post–Cold War era, the Arctic was hailed as a zone of cooperation. Even adversaries found common ground on search and rescue, fisheries, and scientific monitoring in a region where survival demands collaboration. That consensus has fractured. At the center of the disruption is Russia, which now treats Arctic diplomacy not as a platform for shared stewardship, but as a stage to counter its isolation, secure partners, and project power.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trump’s Greenland Gambit, Revisited</title>
-      <link>https://huffmanwrites.org/posts/trumps-greenland-gambit-revisited/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/trumps-greenland-gambit-revisited/</guid>
-      <description>&lt;p&gt;Donald Trump didn’t invent American interest in Greenland, but he did put it on billboards. In August 2019, after Danish leaders called the idea of selling the island “absurd,” he canceled a planned state visit and posted the now-famous meme—“I promise not to do this to Greenland”—over a photoshopped Trump Tower jutting from a colorful coastal town. The theatrics were pure Trump; the target was not. Greenland sits on the seam between North America and Eurasia, with critical minerals underfoot and the U.S. military’s northernmost base at Pituffik guarding the polar approach. That mix of spectacle and strategic logic is the through-line of Trump’s Greenland story. (&lt;a href=&#34;https://www.reuters.com/article/world/danish-pm-says-trumps-idea-of-selling-greenland-to-us-is-absurd-idUSKCN1V9076/?utm_source=chatgpt.com&#34;&gt;Reuters&lt;/a&gt;, &lt;a href=&#34;https://www.theguardian.com/world/2019/aug/19/trump-greenland-tower?utm_source=chatgpt.com&#34;&gt;The Guardian&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for August 29, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-august-29-2025/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-august-29-2025/</guid>
-      <description>&lt;h1 id=&#34;-reflection&#34;&gt;🪞 Reflection&lt;/h1&gt;
-&lt;h2 id=&#34;what-we-feed-grows&#34;&gt;What We Feed Grows&lt;/h2&gt;
+&lt;p&gt;The principle is simple: today’s growth becomes tomorrow’s foundation. A dollar earns a penny, and next year both the dollar and the penny are at work. Repeat that cycle for long enough, and the results stop being linear—they start becoming extraordinary. What once felt slow and dull accelerates into something almost unstoppable.&lt;/p&gt;</description></item><item><title>Why Dollar-Cost Averaging Beats Market Timing</title><link>https://huffmanwrites.org/posts/why-dollar-cost-averaging-beats-market-timing/</link><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/why-dollar-cost-averaging-beats-market-timing/</guid><description>&lt;p&gt;“If only I had bought at the bottom.” It’s a thought nearly every investor has had at some point. The allure of perfect timing is powerful: buy low, sell high, and retire rich. The trouble is, nobody—not even seasoned professionals—consistently calls market tops and bottoms. What ordinary investors can do, however, is embrace a disciplined, proven strategy that turns the market’s swings into a friend rather than a foe. That strategy is dollar-cost averaging.&lt;/p&gt;</description></item><item><title>Starting to Invest After Retirement</title><link>https://huffmanwrites.org/posts/starting-to-invest-after-retirement/</link><pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/starting-to-invest-after-retirement/</guid><description>&lt;p&gt;I used to believe investing was something you did while you worked. You built a nest egg, retired, and lived off it. Simple. But when retirement arrived, I quickly learned the story doesn’t end there. Retirement isn’t the finish line—it’s the start of a new chapter. And in this chapter, investing takes on a different purpose.&lt;/p&gt;
+&lt;p&gt;For me, Social Security is the backbone of retirement. It’s steady, predictable, and deeply reassuring. I also receive book royalties, though they’re so modest they don’t change the math. Still, those checks remind me that something I created lives on, even if only in small ways.&lt;/p&gt;</description></item><item><title>Russia’s Diplomatic Gambit in the Arctic</title><link>https://huffmanwrites.org/posts/russias-diplomatic-gambit-in-the-arctic/</link><pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/russias-diplomatic-gambit-in-the-arctic/</guid><description>&lt;p&gt;For much of the post–Cold War era, the Arctic was hailed as a zone of cooperation. Even adversaries found common ground on search and rescue, fisheries, and scientific monitoring in a region where survival demands collaboration. That consensus has fractured. At the center of the disruption is Russia, which now treats Arctic diplomacy not as a platform for shared stewardship, but as a stage to counter its isolation, secure partners, and project power.&lt;/p&gt;</description></item><item><title>Trump’s Greenland Gambit, Revisited</title><link>https://huffmanwrites.org/posts/trumps-greenland-gambit-revisited/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/trumps-greenland-gambit-revisited/</guid><description>&lt;p&gt;Donald Trump didn’t invent American interest in Greenland, but he did put it on billboards. In August 2019, after Danish leaders called the idea of selling the island “absurd,” he canceled a planned state visit and posted the now-famous meme—“I promise not to do this to Greenland”—over a photoshopped Trump Tower jutting from a colorful coastal town. The theatrics were pure Trump; the target was not. Greenland sits on the seam between North America and Eurasia, with critical minerals underfoot and the U.S. military’s northernmost base at Pituffik guarding the polar approach. That mix of spectacle and strategic logic is the through-line of Trump’s Greenland story. (&lt;a href="https://www.reuters.com/article/world/danish-pm-says-trumps-idea-of-selling-greenland-to-us-is-absurd-idUSKCN1V9076/?utm_source=chatgpt.com"&gt;Reuters&lt;/a&gt;, &lt;a href="https://www.theguardian.com/world/2019/aug/19/trump-greenland-tower?utm_source=chatgpt.com"&gt;The Guardian&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Digest for August 29, 2025</title><link>https://huffmanwrites.org/posts/digest-for-august-29-2025/</link><pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-august-29-2025/</guid><description>&lt;h1 id="-reflection"&gt;🪞 Reflection&lt;/h1&gt;
+&lt;h2 id="what-we-feed-grows"&gt;What We Feed Grows&lt;/h2&gt;
 &lt;p&gt;We all have a diet. Not just of food, but of thoughts, habits, and attention. Every day, we choose what to give our time and energy to. And here’s the truth: what you feed, grows.&lt;/p&gt;
-&lt;p&gt;Scroll through social media for hours and you’re feeding distraction. Watch the news on repeat and you’re feeding anxiety. Spend time with your family, read a book, or write a page, and you’re feeding connection and growth. Like it or not, the results are predictable—seeds always sprout into what they are meant to become.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Five Ways Trump Could Be a Better President</title>
-      <link>https://huffmanwrites.org/posts/how-47-could-improve/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/how-47-could-improve/</guid>
-      <description>&lt;p&gt;I’ve never seen much value in tearing a person down for the sake of it. Savage criticism might feel good in the moment, but it rarely changes minds. What does help is pointing to what could be better—offering constructive criticism that invites reflection and growth.&lt;/p&gt;
+&lt;p&gt;Scroll through social media for hours and you’re feeding distraction. Watch the news on repeat and you’re feeding anxiety. Spend time with your family, read a book, or write a page, and you’re feeding connection and growth. Like it or not, the results are predictable—seeds always sprout into what they are meant to become.&lt;/p&gt;</description></item><item><title>Five Ways Trump Could Be a Better President</title><link>https://huffmanwrites.org/posts/how-47-could-improve/</link><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/how-47-could-improve/</guid><description>&lt;p&gt;I’ve never seen much value in tearing a person down for the sake of it. Savage criticism might feel good in the moment, but it rarely changes minds. What does help is pointing to what could be better—offering constructive criticism that invites reflection and growth.&lt;/p&gt;
 &lt;p&gt;With that in mind, here are five ways President Donald Trump could strengthen his leadership right now.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Bipartisanship and Unity&lt;/strong&gt;
-America is deeply divided. Trump’s style often sharpens those divides. But the presidency carries a unique opportunity to build bridges. If Trump works with Democrats on shared priorities—like infrastructure, veterans’ care, or the opioid crisis—he can show that unity is not weakness but strength.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unstuck Summary</title>
-      <link>https://huffmanwrites.org/posts/unstuck-summary/</link>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/unstuck-summary/</guid>
-      <description>&lt;h1 id=&#34;unstuck&#34;&gt;&lt;em&gt;Unstuck&lt;/em&gt;&lt;/h1&gt;
-&lt;h3 id=&#34;brutal-guidance-for-getting-out-of-your-own-way&#34;&gt;Brutal Guidance for Getting Out of Your Own Way&lt;/h3&gt;
+America is deeply divided. Trump’s style often sharpens those divides. But the presidency carries a unique opportunity to build bridges. If Trump works with Democrats on shared priorities—like infrastructure, veterans’ care, or the opioid crisis—he can show that unity is not weakness but strength.&lt;/p&gt;</description></item><item><title>Unstuck Summary</title><link>https://huffmanwrites.org/posts/unstuck-summary/</link><pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/unstuck-summary/</guid><description>&lt;h1 id="unstuck"&gt;&lt;em&gt;Unstuck&lt;/em&gt;&lt;/h1&gt;
+&lt;h3 id="brutal-guidance-for-getting-out-of-your-own-way"&gt;Brutal Guidance for Getting Out of Your Own Way&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;h2 id="executive-summary"&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Unstuck&lt;/em&gt; is a no-nonsense guide to breaking through inertia and self-sabotage.
 It rejects motivational fluff and insists on discipline, responsibility, and daily action.
 The core message: &lt;strong&gt;stop waiting — move now.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;8-core-principles&#34;&gt;8 Core Principles&lt;/h2&gt;
+&lt;h2 id="8-core-principles"&gt;8 Core Principles&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Stop Stalling&lt;/strong&gt; — Waiting for the “right time” is an illusion. Take one step now — action creates momentum.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Your Excuses Are BS&lt;/strong&gt; — Excuses are lies we tell ourselves. Face the truth, and act on it, however small.&lt;/li&gt;
@@ -402,117 +161,33 @@ The core message: &lt;strong&gt;stop waiting — move now.&lt;/strong&gt;&lt;/p&
 &lt;li&gt;&lt;strong&gt;Don’t Miss Twice&lt;/strong&gt; — Slipping once is normal. Failing twice breaks the streak. Reset quickly and keep moving forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;the-stoic-thread&#34;&gt;The Stoic Thread&lt;/h2&gt;
+&lt;h2 id="the-stoic-thread"&gt;The Stoic Thread&lt;/h2&gt;
 &lt;p&gt;Drawing on wisdom from Epictetus, Seneca, and Marcus Aurelius, &lt;em&gt;Unstuck&lt;/em&gt; reminds us:
 you cannot control the world, but you can control your choices.
-Courage, discipline, and clarity are cultivated, not gifted.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digest for August 22, 2025</title>
-      <link>https://huffmanwrites.org/posts/digest-for-august-22-2025/</link>
-      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/digest-for-august-22-2025/</guid>
-      <description>&lt;h2 id=&#34;-reflection&#34;&gt;🪞 Reflection&lt;/h2&gt;
-&lt;h1 id=&#34;we-always-have-options&#34;&gt;We Always Have Options&lt;/h1&gt;
+Courage, discipline, and clarity are cultivated, not gifted.&lt;/p&gt;</description></item><item><title>Digest for August 22, 2025</title><link>https://huffmanwrites.org/posts/digest-for-august-22-2025/</link><pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/digest-for-august-22-2025/</guid><description>&lt;h2 id="-reflection"&gt;🪞 Reflection&lt;/h2&gt;
+&lt;h1 id="we-always-have-options"&gt;We Always Have Options&lt;/h1&gt;
 &lt;p&gt;It’s easy to forget we have choices. The pace of life, the pressure of obligations, and the sheer weight of habit can convince us that the path we’re on is the only path available. But the truth is simpler and more freeing: we always have options.&lt;/p&gt;
-&lt;p&gt;Sometimes those options are small, almost invisible. Choosing to go for a walk instead of doom-scrolling. Reaching for water instead of another cup of coffee. Deciding to listen rather than rush to reply. These are choices, too—small turns in the day that can shift our mood, our energy, even our outlook.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why I am Looking at Albania</title>
-      <link>https://huffmanwrites.org/posts/why-i-am-looking-at-albania/</link>
-      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/why-i-am-looking-at-albania/</guid>
-      <description>&lt;p&gt;I’m not chasing a fantasy of elsewhere. I’m chasing a better use of my remaining time. Albania keeps coming up because it offers something I can’t seem to buy in the States at any reasonable price: a quieter life that still feels alive.&lt;/p&gt;
-&lt;p&gt;What I want is simple. I want mornings that begin with a short walk to coffee, not a long drive to errands. I want a budget that buys time—time to write, read, and call the people I love—rather than buying square footage I barely use. I want streets that reward curiosity, not speed. Albania, from Tirana’s café lanes to the Adriatic towns, looks like a place built for human pace.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Proud to Be Woke</title>
-      <link>https://huffmanwrites.org/posts/proud-to-be-woke/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/proud-to-be-woke/</guid>
-      <description>&lt;p&gt;If caring about people makes me woke, then I’ll wear the word like a medal. Somewhere along the way, a simple idea—that we should stay alert to injustice and aware of the struggles of others—was dragged through the mud. The word “woke” didn’t come from politicians or pundits; it came from ordinary people warning each other to keep their eyes open, to see the truth, to act with compassion. It was a call to vigilance, not a declaration of war. I don’t believe being woke is a cause for shame. I believe shame belongs to those who mock it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>No Kings: A Nation Speaks</title>
-      <link>https://huffmanwrites.org/posts/no-kings-a-nation-speaks/</link>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/no-kings-a-nation-speaks/</guid>
-      <description>&lt;p&gt;Last Saturday, as President Trump celebrated his 79th birthday with a military parade in Washington, D.C.—funded by private donors at a reported cost of $25–45 million—something far larger and more democratic was unfolding across the country.&lt;/p&gt;
-&lt;p&gt;In all 50 states, in U.S. territories, and even abroad, the &lt;strong&gt;No Kings&lt;/strong&gt; movement organized what may be the largest single-day protest in American history. Backed by more than 200 organizations—including Indivisible, the 50501 Movement, ACLU, MoveOn, Working Families Party, and the American Federation of Teachers—the protest united an estimated 4 to 6 million people across more than 2,100 locations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PRH Digest for Mid June 2025</title>
-      <link>https://huffmanwrites.org/posts/prh-digest-for-mid-june-2025/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/prh-digest-for-mid-june-2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Theme&lt;/strong&gt;: &lt;em&gt;The Discipline of Hope &amp;amp; Standing Tall for Things That Matter&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes those options are small, almost invisible. Choosing to go for a walk instead of doom-scrolling. Reaching for water instead of another cup of coffee. Deciding to listen rather than rush to reply. These are choices, too—small turns in the day that can shift our mood, our energy, even our outlook.&lt;/p&gt;</description></item><item><title>Why I am Looking at Albania</title><link>https://huffmanwrites.org/posts/why-i-am-looking-at-albania/</link><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/why-i-am-looking-at-albania/</guid><description>&lt;p&gt;I’m not chasing a fantasy of elsewhere. I’m chasing a better use of my remaining time. Albania keeps coming up because it offers something I can’t seem to buy in the States at any reasonable price: a quieter life that still feels alive.&lt;/p&gt;
+&lt;p&gt;What I want is simple. I want mornings that begin with a short walk to coffee, not a long drive to errands. I want a budget that buys time—time to write, read, and call the people I love—rather than buying square footage I barely use. I want streets that reward curiosity, not speed. Albania, from Tirana’s café lanes to the Adriatic towns, looks like a place built for human pace.&lt;/p&gt;</description></item><item><title>Proud to Be Woke</title><link>https://huffmanwrites.org/posts/proud-to-be-woke/</link><pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/proud-to-be-woke/</guid><description>&lt;p&gt;If caring about people makes me woke, then I’ll wear the word like a medal. Somewhere along the way, a simple idea—that we should stay alert to injustice and aware of the struggles of others—was dragged through the mud. The word “woke” didn’t come from politicians or pundits; it came from ordinary people warning each other to keep their eyes open, to see the truth, to act with compassion. It was a call to vigilance, not a declaration of war. I don’t believe being woke is a cause for shame. I believe shame belongs to those who mock it.&lt;/p&gt;</description></item><item><title>No Kings: A Nation Speaks</title><link>https://huffmanwrites.org/posts/no-kings-a-nation-speaks/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/no-kings-a-nation-speaks/</guid><description>&lt;p&gt;Last Saturday, as President Trump celebrated his 79th birthday with a military parade in Washington, D.C.—funded by private donors at a reported cost of $25–45 million—something far larger and more democratic was unfolding across the country.&lt;/p&gt;
+&lt;p&gt;In all 50 states, in U.S. territories, and even abroad, the &lt;strong&gt;No Kings&lt;/strong&gt; movement organized what may be the largest single-day protest in American history. Backed by more than 200 organizations—including Indivisible, the 50501 Movement, ACLU, MoveOn, Working Families Party, and the American Federation of Teachers—the protest united an estimated 4 to 6 million people across more than 2,100 locations.&lt;/p&gt;</description></item><item><title>PRH Digest for Mid June 2025</title><link>https://huffmanwrites.org/posts/prh-digest-for-mid-june-2025/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/prh-digest-for-mid-june-2025/</guid><description>&lt;p&gt;&lt;strong&gt;Theme&lt;/strong&gt;: &lt;em&gt;The Discipline of Hope &amp;amp; Standing Tall for Things That Matter&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;I fell behind on the digest these past two weeks due to a personal issue that ended up consuming more of my time and energy than it deserved. I’ve since put it back in perspective, and I’m refocusing on the work that truly matters—starting with catching you up on everything I’ve missed.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-reflection&#34;&gt;🪞 Reflection&lt;/h2&gt;
-&lt;p&gt;Hope is often misunderstood—mistaken for blind optimism or a soft-focus filter on real life. But this week’s post challenged that: hope, as I’ve come to know it, is not a feeling. It’s a discipline. It’s not about being sure things will get better—it’s about choosing to act as if they can.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stand Tall for Democracy</title>
-      <link>https://huffmanwrites.org/posts/stand-tall-for-democracy/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/stand-tall-for-democracy/</guid>
-      <description>&lt;p&gt;In an era of rising disinformation, polarization, and institutional decay, it is no longer hyperbole to say that American liberal democracy is under serious threat. The freedoms and norms that once formed the backbone of this republic are being eroded from both within and without. But despite these dangers, or perhaps because of them, it is worth fighting to preserve what remains—and rebuild what has been lost.&lt;/p&gt;
-&lt;p&gt;At its core, liberal democracy rests on three foundational principles: free and fair elections, the rule of law, and the protection of individual rights. These aren&amp;rsquo;t abstract ideals. They are the reason civil rights movements succeeded, the reason journalists can hold the powerful to account, and the reason a citizen&amp;rsquo;s vote matters. When these principles are weakened, everyone suffers—not just the politically engaged, but ordinary people whose lives depend on fair governance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekly Digest for May 23, 2025</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-for-may-23-2025/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-for-may-23-2025/</guid>
-      <description>&lt;hr&gt;
-&lt;h3 id=&#34;this-weeks-reflection-endurance-isnt-loud&#34;&gt;&lt;strong&gt;This Week’s Reflection: Endurance Isn’t Loud&lt;/strong&gt;&lt;/h3&gt;
+&lt;h2 id="-reflection"&gt;🪞 Reflection&lt;/h2&gt;
+&lt;p&gt;Hope is often misunderstood—mistaken for blind optimism or a soft-focus filter on real life. But this week’s post challenged that: hope, as I’ve come to know it, is not a feeling. It’s a discipline. It’s not about being sure things will get better—it’s about choosing to act as if they can.&lt;/p&gt;</description></item><item><title>Stand Tall for Democracy</title><link>https://huffmanwrites.org/posts/stand-tall-for-democracy/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/stand-tall-for-democracy/</guid><description>&lt;p&gt;In an era of rising disinformation, polarization, and institutional decay, it is no longer hyperbole to say that American liberal democracy is under serious threat. The freedoms and norms that once formed the backbone of this republic are being eroded from both within and without. But despite these dangers, or perhaps because of them, it is worth fighting to preserve what remains—and rebuild what has been lost.&lt;/p&gt;
+&lt;p&gt;At its core, liberal democracy rests on three foundational principles: free and fair elections, the rule of law, and the protection of individual rights. These aren&amp;rsquo;t abstract ideals. They are the reason civil rights movements succeeded, the reason journalists can hold the powerful to account, and the reason a citizen&amp;rsquo;s vote matters. When these principles are weakened, everyone suffers—not just the politically engaged, but ordinary people whose lives depend on fair governance.&lt;/p&gt;</description></item><item><title>Weekly Digest for May 23, 2025</title><link>https://huffmanwrites.org/posts/weekly-digest-for-may-23-2025/</link><pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-for-may-23-2025/</guid><description>&lt;hr&gt;
+&lt;h3 id="this-weeks-reflection-endurance-isnt-loud"&gt;&lt;strong&gt;This Week’s Reflection: Endurance Isn’t Loud&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Endurance doesn’t announce itself. It doesn’t post highlight reels or rack up likes. Most of the time, it’s quiet—happening in the background while the rest of the world scrolls past.&lt;/p&gt;
 &lt;p&gt;But that doesn’t make it any less powerful.&lt;/p&gt;
 &lt;p&gt;Endurance is staying in the conversation when silence feels safer.
-It’s showing up to the page, the gym, the life you’re trying to build—even when the fire’s gone cold. It’s not about never wanting to quit. It’s about not letting that want decide for you.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 A Nation Poised for Reckoning—or Renewal</title>
-      <link>https://huffmanwrites.org/posts/a-nation-poised-for-reckoning-or-renewal/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/a-nation-poised-for-reckoning-or-renewal/</guid>
-      <description>&lt;p&gt;January 2029 will not mark the clean beginning of a new era.
+It’s showing up to the page, the gym, the life you’re trying to build—even when the fire’s gone cold. It’s not about never wanting to quit. It’s about not letting that want decide for you.&lt;/p&gt;</description></item><item><title>🧭 A Nation Poised for Reckoning—or Renewal</title><link>https://huffmanwrites.org/posts/a-nation-poised-for-reckoning-or-renewal/</link><pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/a-nation-poised-for-reckoning-or-renewal/</guid><description>&lt;p&gt;January 2029 will not mark the clean beginning of a new era.
 No oath, no inaugural address, no executive order will reset the trajectory of a nation as complex and divided as the United States. Instead, it marks a &lt;strong&gt;reckoning&lt;/strong&gt;—a convergence of long-simmering challenges and the unavoidable consequences of choices made and deferred.&lt;/p&gt;
-&lt;p&gt;The new administration will inherit not just the machinery of government, but the mood of a people. That mood is wary. Cynicism toward institutions is widespread. Many feel unrepresented, unheard, or simply exhausted by the volatility of public life.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekly Digest for May 16, 2025</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-for-may-16-2025/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-for-may-16-2025/</guid>
-      <description>&lt;hr&gt;
-&lt;h3 id=&#34;-weekly-reflection-the-quiet-strength-of-temperance&#34;&gt;✨ Weekly Reflection: &lt;strong&gt;The Quiet Strength of Temperance&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The new administration will inherit not just the machinery of government, but the mood of a people. That mood is wary. Cynicism toward institutions is widespread. Many feel unrepresented, unheard, or simply exhausted by the volatility of public life.&lt;/p&gt;</description></item><item><title>Weekly Digest for May 16, 2025</title><link>https://huffmanwrites.org/posts/weekly-digest-for-may-16-2025/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-for-may-16-2025/</guid><description>&lt;hr&gt;
+&lt;h3 id="-weekly-reflection-the-quiet-strength-of-temperance"&gt;✨ Weekly Reflection: &lt;strong&gt;The Quiet Strength of Temperance&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Temperance isn’t about denial. It’s about choosing mastery over impulse. In a culture addicted to more—more screens, more noise, more comfort—temperance dares to whisper &lt;em&gt;enough.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;This virtue doesn’t shout. It doesn’t flex. It lives in the pause before we speak, the breath before we act, the decision to walk away when ego says fight. Temperance is not the absence of desire—it’s the discipline to channel that desire toward something higher than momentary relief.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Virtue of Temperance</title>
-      <link>https://huffmanwrites.org/posts/the-virtue-of-temperance/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-virtue-of-temperance/</guid>
-      <description>&lt;p&gt;The first time I truly understood what rage could do to a man, I wasn’t watching the news or reading some philosophical text. I was standing in my own home, unmoored by betrayal.&lt;/p&gt;
-&lt;p&gt;I had just found out that my first wife was involved with someone else, a friend of a friend. No slow unraveling. No explanation. Just a blunt, soul-jarring truth that hit me like a punch to the chest. I remember the heat crawling up my neck. My hands trembling. My vision narrowing like I was looking through a straw. I don’t remember exactly what I said—I only remember the volume. The force. The aftermath.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Virtue of Temperance: Holding the Line When Everything Pulls You Off It</title>
-      <link>https://huffmanwrites.org/posts/the-virtue-of-temperance-holding-the-line-when-everything-pulls-you-off-it/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-virtue-of-temperance-holding-the-line-when-everything-pulls-you-off-it/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weekly Digest for May 9, 2025</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-for-may-9-2025/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-for-may-9-2025/</guid>
-      <description>&lt;hr&gt;
-&lt;h3 id=&#34;-weekly-reflection-the-quiet-weight-of-justice&#34;&gt;✨ Weekly Reflection: The Quiet Weight of Justice&lt;/h3&gt;
+&lt;p&gt;This virtue doesn’t shout. It doesn’t flex. It lives in the pause before we speak, the breath before we act, the decision to walk away when ego says fight. Temperance is not the absence of desire—it’s the discipline to channel that desire toward something higher than momentary relief.&lt;/p&gt;</description></item><item><title>The Virtue of Temperance</title><link>https://huffmanwrites.org/posts/the-virtue-of-temperance/</link><pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-virtue-of-temperance/</guid><description>&lt;p&gt;The first time I truly understood what rage could do to a man, I wasn’t watching the news or reading some philosophical text. I was standing in my own home, unmoored by betrayal.&lt;/p&gt;
+&lt;p&gt;I had just found out that my first wife was involved with someone else, a friend of a friend. No slow unraveling. No explanation. Just a blunt, soul-jarring truth that hit me like a punch to the chest. I remember the heat crawling up my neck. My hands trembling. My vision narrowing like I was looking through a straw. I don’t remember exactly what I said—I only remember the volume. The force. The aftermath.&lt;/p&gt;</description></item><item><title>The Virtue of Temperance: Holding the Line When Everything Pulls You Off It</title><link>https://huffmanwrites.org/posts/the-virtue-of-temperance-holding-the-line-when-everything-pulls-you-off-it/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-virtue-of-temperance-holding-the-line-when-everything-pulls-you-off-it/</guid><description/></item><item><title>Weekly Digest for May 9, 2025</title><link>https://huffmanwrites.org/posts/weekly-digest-for-may-9-2025/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-for-may-9-2025/</guid><description>&lt;hr&gt;
+&lt;h3 id="-weekly-reflection-the-quiet-weight-of-justice"&gt;✨ Weekly Reflection: The Quiet Weight of Justice&lt;/h3&gt;
 &lt;p&gt;Justice doesn’t always wear robes
 or raise its voice in protest.
 Sometimes it walks beside us,
@@ -527,213 +202,42 @@ even when the world feels closed.&lt;/p&gt;
 isn’t something we demand —
 it’s something we become.
 Not by shouting into the void,
-but by living as if truth still matters.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When Justice Bends: Power, Privilege, and the Price of Fairness</title>
-      <link>https://huffmanwrites.org/posts/when-justice-bends-power-privilege-and-the-price-of-fairness/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/when-justice-bends-power-privilege-and-the-price-of-fairness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weekly Digest for May 2, 2025</title>
-      <link>https://huffmanwrites.org/posts/the-price-of-silence-in-a-corrupt-nation/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-price-of-silence-in-a-corrupt-nation/</guid>
-      <description>&lt;hr&gt;
-&lt;h1 id=&#34;--kleptocracy-week&#34;&gt;📬  Kleptocracy Week&lt;/h1&gt;
+but by living as if truth still matters.&lt;/p&gt;</description></item><item><title>When Justice Bends: Power, Privilege, and the Price of Fairness</title><link>https://huffmanwrites.org/posts/when-justice-bends-power-privilege-and-the-price-of-fairness/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/when-justice-bends-power-privilege-and-the-price-of-fairness/</guid><description/></item><item><title>Weekly Digest for May 2, 2025</title><link>https://huffmanwrites.org/posts/the-price-of-silence-in-a-corrupt-nation/</link><pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-price-of-silence-in-a-corrupt-nation/</guid><description>&lt;hr&gt;
+&lt;h1 id="--kleptocracy-week"&gt;📬 Kleptocracy Week&lt;/h1&gt;
 &lt;p&gt;This week’s focus is on a threat that often goes unnoticed until it is too late: kleptocracy. Not all collapses are sudden. Some are slow, silent, and self-inflicted.&lt;/p&gt;
 &lt;p&gt;In an age where corruption wears a mask of legitimacy, silence is no longer neutrality — it is complicity.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;feature-essay-silence-protects-nothing&#34;&gt;Feature Essay: &lt;strong&gt;Silence Protects Nothing&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id="feature-essay-silence-protects-nothing"&gt;Feature Essay: &lt;strong&gt;Silence Protects Nothing&lt;/strong&gt;&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Every generation faces a choice: to confront the rot or to become part of it. In an age where corruption is cloaked in legality, resisting becomes not only a political act but a moral one. This is the anatomy of a kleptocracy — and a call to conscience.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekly Digest for April 25. 2025</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-for-april-25-2025/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-for-april-25-2025/</guid>
-      <description>&lt;h2 id=&#34;this-earth-this-chance&#34;&gt;&lt;strong&gt;This Earth, This Chance&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;This week, I’ve been thinking less about saving the planet and more about saving our relationship &lt;em&gt;with&lt;/em&gt; it. The Earth doesn’t need our heroism—it’s endured cataclysms, ice ages, and extinctions before. What’s really at stake is us. Our health, our stability, our children’s future. Whether we’re wise enough to live in balance with what sustains us—or arrogant enough to believe we can thrive while poisoning the ground beneath our feet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We Are the Ancestors of What Follows</title>
-      <link>https://huffmanwrites.org/posts/we-are-the-ancestors-of-what-follows/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/we-are-the-ancestors-of-what-follows/</guid>
-      <description>&lt;p&gt;We often think of ourselves as the end result of history’s long arc. The inheritors. The living echoes of those who came before. And while that’s true, it’s not the whole truth.&lt;/p&gt;
-&lt;p&gt;Because we’re not just descendants—we’re ancestors, too. Whether we acknowledge it or not, we are laying the foundation for lives we will never see. The future isn’t some abstract idea waiting to arrive—it’s being shaped by the sum of our decisions, right now. Every time we choose convenience over conscience, or courage over comfort, we are setting the terms of tomorrow’s world. That makes us architects. Stewards. For better or worse, we are becoming the stories future generations will tell about how it all turned out. Will they see us as the ones who looked away—or the ones who stepped up?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>To Save a World Together</title>
-      <link>https://huffmanwrites.org/posts/to-save-a-world-together/</link>
-      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/to-save-a-world-together/</guid>
-      <description>&lt;h3 id=&#34;our-pale-blue-dot-still-turns--and-it-still-needs-us&#34;&gt;&lt;em&gt;Our Pale Blue Dot Still Turns — and It Still Needs Us&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Every generation faces a choice: to confront the rot or to become part of it. In an age where corruption is cloaked in legality, resisting becomes not only a political act but a moral one. This is the anatomy of a kleptocracy — and a call to conscience.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Weekly Digest for April 25. 2025</title><link>https://huffmanwrites.org/posts/weekly-digest-for-april-25-2025/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-for-april-25-2025/</guid><description>&lt;h2 id="this-earth-this-chance"&gt;&lt;strong&gt;This Earth, This Chance&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This week, I’ve been thinking less about saving the planet and more about saving our relationship &lt;em&gt;with&lt;/em&gt; it. The Earth doesn’t need our heroism—it’s endured cataclysms, ice ages, and extinctions before. What’s really at stake is us. Our health, our stability, our children’s future. Whether we’re wise enough to live in balance with what sustains us—or arrogant enough to believe we can thrive while poisoning the ground beneath our feet.&lt;/p&gt;</description></item><item><title>We Are the Ancestors of What Follows</title><link>https://huffmanwrites.org/posts/we-are-the-ancestors-of-what-follows/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/we-are-the-ancestors-of-what-follows/</guid><description>&lt;p&gt;We often think of ourselves as the end result of history’s long arc. The inheritors. The living echoes of those who came before. And while that’s true, it’s not the whole truth.&lt;/p&gt;
+&lt;p&gt;Because we’re not just descendants—we’re ancestors, too. Whether we acknowledge it or not, we are laying the foundation for lives we will never see. The future isn’t some abstract idea waiting to arrive—it’s being shaped by the sum of our decisions, right now. Every time we choose convenience over conscience, or courage over comfort, we are setting the terms of tomorrow’s world. That makes us architects. Stewards. For better or worse, we are becoming the stories future generations will tell about how it all turned out. Will they see us as the ones who looked away—or the ones who stepped up?&lt;/p&gt;</description></item><item><title>To Save a World Together</title><link>https://huffmanwrites.org/posts/to-save-a-world-together/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/to-save-a-world-together/</guid><description>&lt;h3 id="our-pale-blue-dot-still-turns--and-it-still-needs-us"&gt;&lt;em&gt;Our Pale Blue Dot Still Turns — and It Still Needs Us&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;There’s a photo taken by Voyager 1 in 1990, just before it left our solar system.
 It shows Earth from 3.7 billion miles away — a tiny speck caught in a beam of scattered sunlight.&lt;/p&gt;
 &lt;p&gt;That speck is us.
 Everyone you’ve ever loved. Every moment of history. Every act of courage and cruelty. Every hope and heartbreak.&lt;/p&gt;
-&lt;p&gt;A pale blue dot.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekly Digest – April 18, 2025</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-april-18-2025/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-april-18-2025/</guid>
-      <description>&lt;h3 id=&#34;kleptocracy-week-when-collapse-is-the-plan&#34;&gt;&lt;em&gt;Kleptocracy Week: When Collapse Is the Plan&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;A pale blue dot.&lt;/p&gt;</description></item><item><title>Weekly Digest – April 18, 2025</title><link>https://huffmanwrites.org/posts/weekly-digest-april-18-2025/</link><pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-april-18-2025/</guid><description>&lt;h3 id="kleptocracy-week-when-collapse-is-the-plan"&gt;&lt;em&gt;Kleptocracy Week: When Collapse Is the Plan&lt;/em&gt;&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-monday&#34;&gt;&lt;strong&gt;🧠 Monday: &lt;em&gt;The Rot Before the Collapse — How Broken Systems Breed Corruption&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id="-monday"&gt;&lt;strong&gt;🧠 Monday: &lt;em&gt;The Rot Before the Collapse — How Broken Systems Breed Corruption&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;We began the week by exposing how systemic decay invites exploitation.
 When institutions rot from within, it’s not long before opportunists move in.
 This piece explores how dysfunction becomes design — and how corruption spreads like mold in silence.&lt;/p&gt;
-&lt;p&gt;👉 &lt;a href=&#34;https://www.huffmanwrites.org/&#34;&gt;Read the full article →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href="https://www.huffmanwrites.org/"&gt;Read the full article →&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-thursday&#34;&gt;&lt;strong&gt;💰 Thursday: &lt;em&gt;They’re Not Failing. They’re Looting.&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id="-thursday"&gt;&lt;strong&gt;💰 Thursday: &lt;em&gt;They’re Not Failing. They’re Looting.&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;What looks like chaos is often just control by another name.
 This isn’t mismanagement — it’s a strategy.
-The looters aren’t breaking the system. They &lt;em&gt;are&lt;/em&gt; the system.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>They’re Not Failing. They’re Looting: Why the Nation&#39;s Collapse Isn’t Incompetence. It’s Intent.</title>
-      <link>https://huffmanwrites.org/posts/theyre-not-failing-theyre-looting-why-the-nations-collapse-isnt-incompetence-its-intent/</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/theyre-not-failing-theyre-looting-why-the-nations-collapse-isnt-incompetence-its-intent/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Rot Before the Collapse: How Broken Systems Breed Corruption</title>
-      <link>https://huffmanwrites.org/posts/the-rot-before-the-collapse-how-broken-systems-breed-corruption/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-rot-before-the-collapse-how-broken-systems-breed-corruption/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Weekly Digest for 11 April, 2025 : The Price of Liberty</title>
-      <link>https://huffmanwrites.org/posts/weekly-digest-for-11-april-2025-the-price-of-liberty/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/weekly-digest-for-11-april-2025-the-price-of-liberty/</guid>
-      <description>&lt;p&gt;This week, I’ve been thinking about what we’re losing—and why. Not just in headlines, but in values. Not just freedom on paper, but liberty in practice.&lt;/p&gt;
+The looters aren’t breaking the system. They &lt;em&gt;are&lt;/em&gt; the system.&lt;/p&gt;</description></item><item><title>They’re Not Failing. They’re Looting: Why the Nation's Collapse Isn’t Incompetence. It’s Intent.</title><link>https://huffmanwrites.org/posts/theyre-not-failing-theyre-looting-why-the-nations-collapse-isnt-incompetence-its-intent/</link><pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/theyre-not-failing-theyre-looting-why-the-nations-collapse-isnt-incompetence-its-intent/</guid><description/></item><item><title>The Rot Before the Collapse: How Broken Systems Breed Corruption</title><link>https://huffmanwrites.org/posts/the-rot-before-the-collapse-how-broken-systems-breed-corruption/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-rot-before-the-collapse-how-broken-systems-breed-corruption/</guid><description/></item><item><title>Weekly Digest for 11 April, 2025 : The Price of Liberty</title><link>https://huffmanwrites.org/posts/weekly-digest-for-11-april-2025-the-price-of-liberty/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/weekly-digest-for-11-april-2025-the-price-of-liberty/</guid><description>&lt;p&gt;This week, I’ve been thinking about what we’re losing—and why. Not just in headlines, but in values. Not just freedom on paper, but liberty in practice.&lt;/p&gt;
 &lt;p&gt;Thomas Jefferson once said that &lt;em&gt;“The natural progress of things is for liberty to yield, and government to gain ground.”&lt;/em&gt; It was a warning. And we’re living in the middle of what happens when that warning goes unheeded.&lt;/p&gt;
-&lt;p&gt;Liberty doesn’t vanish all at once. It fades. Quietly. Gradually. With every compromise we make in the name of safety, convenience, or comfort. The danger isn’t always in the laws—it’s in the silence. The normalization. The learned helplessness.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Erosion of Liberty: How We Got Here—And What We Must Do About It</title>
-      <link>https://huffmanwrites.org/posts/the-erosion-of-liberty-how-we-got-here-and-what-we-must-do-about-it/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-erosion-of-liberty-how-we-got-here-and-what-we-must-do-about-it/</guid>
-      <description>&lt;blockquote&gt;
+&lt;p&gt;Liberty doesn’t vanish all at once. It fades. Quietly. Gradually. With every compromise we make in the name of safety, convenience, or comfort. The danger isn’t always in the laws—it’s in the silence. The normalization. The learned helplessness.&lt;/p&gt;</description></item><item><title>The Erosion of Liberty: How We Got Here—And What We Must Do About It</title><link>https://huffmanwrites.org/posts/the-erosion-of-liberty-how-we-got-here-and-what-we-must-do-about-it/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-erosion-of-liberty-how-we-got-here-and-what-we-must-do-about-it/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“The natural progress of things is for liberty to yield, and government to gain ground.”&lt;/em&gt;
 —Thomas Jefferson, 1788&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Liberty does not collapse in a single moment. It erodes, quietly and gradually, under the weight of fear, convenience, and inattention. While tyrants often get the blame, it is apathy—our own failure to remain vigilant—that often clears the path.&lt;/p&gt;
-&lt;p&gt;In the United States, the promise of freedom has long served as both a birthright and a burden. We inherited a system forged in resistance to unchecked power. And yet, that very system—designed to preserve individual liberty—has steadily shifted toward greater consolidation, surveillance, and control.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Liberty Demands: A Reflection on John Stuart Mill</title>
-      <link>https://huffmanwrites.org/posts/what-liberty-demands-a-reflection-on-john-stuart-mill/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/what-liberty-demands-a-reflection-on-john-stuart-mill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning from Giants Without Standing in Their Shadow</title>
-      <link>https://huffmanwrites.org/posts/learning-from-giants-without-standing-in-their-shadow/</link>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/learning-from-giants-without-standing-in-their-shadow/</guid>
-      <description>&lt;p&gt;I came across a quote earlier today that stopped me:&lt;/p&gt;
+&lt;p&gt;In the United States, the promise of freedom has long served as both a birthright and a burden. We inherited a system forged in resistance to unchecked power. And yet, that very system—designed to preserve individual liberty—has steadily shifted toward greater consolidation, surveillance, and control.&lt;/p&gt;</description></item><item><title>What Liberty Demands: A Reflection on John Stuart Mill</title><link>https://huffmanwrites.org/posts/what-liberty-demands-a-reflection-on-john-stuart-mill/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/what-liberty-demands-a-reflection-on-john-stuart-mill/</guid><description/></item><item><title>Learning from Giants Without Standing in Their Shadow</title><link>https://huffmanwrites.org/posts/learning-from-giants-without-standing-in-their-shadow/</link><pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/learning-from-giants-without-standing-in-their-shadow/</guid><description>&lt;p&gt;I came across a quote earlier today that stopped me:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Travel is never a matter of money, but of courage.”&lt;/em&gt;
 — Paulo Coelho&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I’d never heard of him until then. I haven’t read his books. I don’t know much about his story. Yet that one line hit home.&lt;/p&gt;
-&lt;p&gt;It’s the kind of truth you feel in your chest before your brain has time to argue. Because most of the limits we think we have — money, time, talent — are smoke screens. What’s really missing, more often than not, is courage.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meaning Over Mood: How Logotherapy and ACT Help Us Find Purpose in Pain</title>
-      <link>https://huffmanwrites.org/posts/meaning-over-mood-how-logotherapy-and-act-help-us-find-purpose-in-pain/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/meaning-over-mood-how-logotherapy-and-act-help-us-find-purpose-in-pain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Constitution of the United States: The Foundation of Freedom</title>
-      <link>https://huffmanwrites.org/posts/the-constitution-of-the-united-states-the-foundation-of-freedom/</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-constitution-of-the-united-states-the-foundation-of-freedom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Fourteenth Amendment: Defining Citizenship and Equal Protection</title>
-      <link>https://huffmanwrites.org/posts/the-fourteenth-amendment-defining-citizenship-and-equal-protection/</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-fourteenth-amendment-defining-citizenship-and-equal-protection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Eighth Amendment: Protecting Against Cruel and Unusual Punishment</title>
-      <link>https://huffmanwrites.org/posts/the-eighth-amendment-protecting-against-cruel-and-unusual-punishment/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-eighth-amendment-protecting-against-cruel-and-unusual-punishment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Constitution’s Legacy: A More Perfect Union Worth Fighting For</title>
-      <link>https://huffmanwrites.org/posts/the-constitutions-legacy-a-more-perfect-union-worth-fighting-for/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-constitutions-legacy-a-more-perfect-union-worth-fighting-for/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Seventh Amendment: Preserving the Right to Civil Jury Trials</title>
-      <link>https://huffmanwrites.org/posts/the-seventh-amendment-preserving-the-right-to-civil-jury-trials/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-seventh-amendment-preserving-the-right-to-civil-jury-trials/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Fourth Amendment: Protecting Privacy in a Digital Age</title>
-      <link>https://huffmanwrites.org/posts/the-fourth-amendment-protecting-privacy-in-a-digital-age/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-fourth-amendment-protecting-privacy-in-a-digital-age/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Tactical Method Approach– A Step-by-Step Guide to Facing Adversity</title>
-      <link>https://huffmanwrites.org/posts/the-tactical-method-approach-a-step-by-step-guide-to-facing-adversity/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-tactical-method-approach-a-step-by-step-guide-to-facing-adversity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Third Amendment: A Forgotten Safeguard Against Government Overreach</title>
-      <link>https://huffmanwrites.org/posts/the-third-amendment-a-forgotten-safeguard-against-government-overreach/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-third-amendment-a-forgotten-safeguard-against-government-overreach/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Paradox of the Second Amendment: Well-Regulated or Unorganized?</title>
-      <link>https://huffmanwrites.org/posts/the-paradox-of-the-second-amendment-well-regulated-or-unorganized/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-paradox-of-the-second-amendment-well-regulated-or-unorganized/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The First Amendment: The Cornerstone of American Freedom</title>
-      <link>https://huffmanwrites.org/posts/the-first-amendment-the-cornerstone-of-american-freedom/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/the-first-amendment-the-cornerstone-of-american-freedom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discipline vs. Motivation: Why Consistency Prevails Over Inspiration</title>
-      <link>https://huffmanwrites.org/posts/discipline-vs-motivation-why-consistency-prevails-over-inspiration/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://huffmanwrites.org/posts/discipline-vs-motivation-why-consistency-prevails-over-inspiration/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;It’s the kind of truth you feel in your chest before your brain has time to argue. Because most of the limits we think we have — money, time, talent — are smoke screens. What’s really missing, more often than not, is courage.&lt;/p&gt;</description></item><item><title>Meaning Over Mood: How Logotherapy and ACT Help Us Find Purpose in Pain</title><link>https://huffmanwrites.org/posts/meaning-over-mood-how-logotherapy-and-act-help-us-find-purpose-in-pain/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/meaning-over-mood-how-logotherapy-and-act-help-us-find-purpose-in-pain/</guid><description/></item><item><title>The Constitution of the United States: The Foundation of Freedom</title><link>https://huffmanwrites.org/posts/the-constitution-of-the-united-states-the-foundation-of-freedom/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-constitution-of-the-united-states-the-foundation-of-freedom/</guid><description/></item><item><title>The Fourteenth Amendment: Defining Citizenship and Equal Protection</title><link>https://huffmanwrites.org/posts/the-fourteenth-amendment-defining-citizenship-and-equal-protection/</link><pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-fourteenth-amendment-defining-citizenship-and-equal-protection/</guid><description/></item><item><title>The Eighth Amendment: Protecting Against Cruel and Unusual Punishment</title><link>https://huffmanwrites.org/posts/the-eighth-amendment-protecting-against-cruel-and-unusual-punishment/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-eighth-amendment-protecting-against-cruel-and-unusual-punishment/</guid><description/></item><item><title>The Constitution’s Legacy: A More Perfect Union Worth Fighting For</title><link>https://huffmanwrites.org/posts/the-constitutions-legacy-a-more-perfect-union-worth-fighting-for/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-constitutions-legacy-a-more-perfect-union-worth-fighting-for/</guid><description/></item><item><title>The Seventh Amendment: Preserving the Right to Civil Jury Trials</title><link>https://huffmanwrites.org/posts/the-seventh-amendment-preserving-the-right-to-civil-jury-trials/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-seventh-amendment-preserving-the-right-to-civil-jury-trials/</guid><description/></item><item><title>The Fourth Amendment: Protecting Privacy in a Digital Age</title><link>https://huffmanwrites.org/posts/the-fourth-amendment-protecting-privacy-in-a-digital-age/</link><pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-fourth-amendment-protecting-privacy-in-a-digital-age/</guid><description/></item><item><title>The Tactical Method Approach– A Step-by-Step Guide to Facing Adversity</title><link>https://huffmanwrites.org/posts/the-tactical-method-approach-a-step-by-step-guide-to-facing-adversity/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-tactical-method-approach-a-step-by-step-guide-to-facing-adversity/</guid><description/></item><item><title>The Third Amendment: A Forgotten Safeguard Against Government Overreach</title><link>https://huffmanwrites.org/posts/the-third-amendment-a-forgotten-safeguard-against-government-overreach/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-third-amendment-a-forgotten-safeguard-against-government-overreach/</guid><description/></item><item><title>The Paradox of the Second Amendment: Well-Regulated or Unorganized?</title><link>https://huffmanwrites.org/posts/the-paradox-of-the-second-amendment-well-regulated-or-unorganized/</link><pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-paradox-of-the-second-amendment-well-regulated-or-unorganized/</guid><description/></item><item><title>The First Amendment: The Cornerstone of American Freedom</title><link>https://huffmanwrites.org/posts/the-first-amendment-the-cornerstone-of-american-freedom/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/the-first-amendment-the-cornerstone-of-american-freedom/</guid><description/></item><item><title>Discipline vs. Motivation: Why Consistency Prevails Over Inspiration</title><link>https://huffmanwrites.org/posts/discipline-vs-motivation-why-consistency-prevails-over-inspiration/</link><pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate><guid>https://huffmanwrites.org/posts/discipline-vs-motivation-why-consistency-prevails-over-inspiration/</guid><description/></item></channel></rss>

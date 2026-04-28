@@ -5,7 +5,7 @@ date: 2026-01-02T00:00:00Z
 
 ## 🪞 A Reflection
 
- ## The clearest high point of 2025 was finally giving my writing the honesty it had been waiting for. I stopped circling the truth and began trusting it. Pages that had stalled for years moved once I allowed myself to write without self-protection or apology. Writing became less about producing and more about listening—staying present long enough for the right sentences to surface. Much of that work is finding its way into *Misaligned*, a book I plan to publish on June 10, 2026, shaped by questions I’ve carried for decades. The year didn’t resolve my story, but it helped me tell it more truthfully.
+The clearest high point of 2025 was finally giving my writing the honesty it had been waiting for. I stopped circling the truth and began trusting it. Pages that had stalled for years moved once I allowed myself to write without self-protection or apology. Writing became less about producing and more about listening—staying present long enough for the right sentences to surface. Much of that work is finding its way into *Misaligned*, a book I plan to publish on June 10, 2026, shaped by questions I've carried for decades. The year didn't resolve my story, but it helped me tell it more truthfully.
 
   ## Reflection Quiz — Reading Between the Lines (2025)
 
