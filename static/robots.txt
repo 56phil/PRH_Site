@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /drafts/
+Disallow: /categories/
+Disallow: /tags/
 
 Sitemap: https://huffmanwrites.org/sitemap.xml
