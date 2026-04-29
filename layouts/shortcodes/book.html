@@ -1,0 +1,20 @@
+{{- $title := .Get "title" -}}
+{{- $subtitle := .Get "subtitle" -}}
+{{- $img := .Get "img" -}}
+{{- $link := .Get "link" -}}
+
+<div class="book-entry" style="margin-bottom: 2rem; clear: both;">
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap;">
+{{- if $img -}}
+<div style="flex-shrink: 0;">
+{{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}
+<img src="/{{ $img }}" alt="{{ $title }} cover" style="width: 200px; max-width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);" loading="lazy">
+{{- if $link -}}</a>{{- end -}}
+</div>
+{{- end -}}
+<div{{ if not $img }} style="width: 100%;"{{ end }}>
+<h3 style="margin-top: 0;">{{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener" style="text-decoration: none;">{{- end -}}{{ $title }}{{- if $link -}}</a>{{- end -}}</h3>
+<p style="color: var(--secondary); margin-bottom: 0;">{{ $subtitle }}</p>
+</div>
+</div>
+</div>
