@@ -3,16 +3,27 @@
 {{- $img := .Get "img" -}}
 {{- $link := .Get "link" -}}
 
-<div class="book-entry">
-<div class="book-cover">
-{{- if $img -}}
-{{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}
-<img src="/{{ $img }}" alt="{{ $title }} cover" loading="lazy">
-{{- if $link -}}</a>{{- end -}}
-{{- end -}}
-</div>
-<div class="book-info">
-<h3>{{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}{{ $title }}{{- if $link -}}</a>{{- end -}}</h3>
-<p>{{ $subtitle }}</p>
-</div>
+<div class="book-card">
+    <div class="book-cover-wrap">
+        {{- if $img -}}
+            {{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}
+                <img src="/{{ $img }}" alt="{{ $title }} cover" loading="lazy">
+            {{- if $link -}}</a>{{- end -}}
+        {{- else -}}
+            <div class="book-cover-placeholder">Cover Coming Soon</div>
+        {{- end -}}
+    </div>
+    <div class="book-content">
+        <div class="book-text">
+            <h3 class="book-title">{{ $title }}</h3>
+            <p class="book-subtitle">{{ $subtitle }}</p>
+        </div>
+        <div class="book-actions">
+            {{- if $link -}}
+                <a href="{{ $link }}" target="_blank" rel="noopener" class="book-button">Buy on Amazon</a>
+            {{- else -}}
+                <span class="book-badge">Forthcoming</span>
+            {{- end -}}
+        </div>
+    </div>
 </div>
