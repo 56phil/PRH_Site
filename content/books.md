@@ -1,15 +1,12 @@
 ---
-title: "All My Books"
-description: "A catalog of every book Phil has written, from Unstuck to Stoic Backgammon."
-date: 2026-03-14T00:00:00Z
+title: "Books by Philip Huffman"
+description: "A catalog of every book by Philip Huffman — Stoic philosophy, civic engagement, and practical living."
+date: 2026-04-28T00:00:00Z
 author: Phil Huffman
-lastmod: 2026-03-14T00:00:00Z
+lastmod: 2026-04-28T00:00:00Z
 tags:
-  - announcement
   - books
-  - civics
-  - essays
-  - games
+  - catalog
 customCSS:
   - /css/phbooks.css
 ---

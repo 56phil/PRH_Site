@@ -44,11 +44,14 @@ pluralizeListTitles = false
   [[params.socialIcons]]
     name = 'website'
     url = 'https://huffmanwrites.org'
+  [[params.socialIcons]]
+    name = 'rss'
+    url = 'https://huffmanwrites.org/index.xml'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = false
 
 [sitemap]
   changefreq = 'monthly'
@@ -65,6 +68,16 @@ pluralizeListTitles = false
     name = 'Home'
     url = '/'
     weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 15
+  [[menu.main]]
+    identifier = 'books'
+    name = 'Books'
+    url = '/books/'
+    weight = 18
   [[menu.main]]
     identifier = 'posts'
     name = 'Posts'
