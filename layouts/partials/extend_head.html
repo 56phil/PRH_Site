@@ -1,7 +1,11 @@
 {{- if .Params.customCSS }}
-{{- range .Params.customCSS }}
+  {{- range .Params.customCSS }}
   <link rel="stylesheet" href="{{ . }}">
+  {{- end }}
 {{- end }}
+{{- if or (eq .RelPermalink "/books/") (eq .RelPermalink "/posts/all-my-books/") }}
+  {{- $phbooks := resources.Get "css/phbooks.css" | resources.Minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $phbooks.RelPermalink }}" integrity="{{ $phbooks.Data.Integrity }}">
 {{- end }}
 {{- if not .Params.cover.image }}
 {{- $ogImage := "https://huffmanwrites.org/img/og-default.png" }}
