@@ -2,6 +2,14 @@
 title: "Digest for September 19, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from September 19, 2025."
 date: 2025-09-19T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-19T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - investing
+  - politics
+  - weekly-digest
 ---
 
 ## 🪞 A Reflection on Risk Management

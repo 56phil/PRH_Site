@@ -2,6 +2,13 @@
 title: "No Kings: A Nation Speaks"
 description: "A nation without kings: why Americans reject authoritarianism."
 date: 2025-06-16T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-06-16T00:00:00Z
+tags:
+  - ai
+  - civics
+  - investing
+  - politics
 ---
 
 Last Saturday, as President Trump celebrated his 79th birthday with a military parade in Washington, D.C.—funded by private donors at a reported cost of $25–45 million—something far larger and more democratic was unfolding across the country.

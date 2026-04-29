@@ -2,6 +2,14 @@
 title: "Stoic Backgammon is Live"
 description: "Stoic Backgammon is now live on Amazon. Strategy, philosophy, and play."
 date: 2026-04-21T00:00:00Z
+author: Phil Huffman
+lastmod: 2026-04-21T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - books
+  - games
+  - philosophy
 ---
 
 # Stoic Backgammon is Live

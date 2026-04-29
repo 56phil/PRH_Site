@@ -2,6 +2,14 @@
 title: "The Virtue of Temperance"
 description: "The lost virtue of temperance: why restraint matters more in an age of excess."
 date: 2025-05-14T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-05-14T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - health
+  - philosophy
+  - politics
 ---
 
 The first time I truly understood what rage could do to a man, I wasn’t watching the news or reading some philosophical text. I was standing in my own home, unmoored by betrayal.

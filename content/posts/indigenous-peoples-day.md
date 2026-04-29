@@ -2,6 +2,14 @@
 title: "Indigenous Peoples Day"
 description: "Honoring Indigenous Peoples Day and confronting the erasure of native history."
 date: 2025-10-13T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-10-13T00:00:00Z
+tags:
+  - ai
+  - books
+  - civics
+  - essays
+  - history
 ---
 
 ## 🌍 **The New World That Wasn’t**

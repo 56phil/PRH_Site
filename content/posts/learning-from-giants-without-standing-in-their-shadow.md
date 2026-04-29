@@ -2,6 +2,11 @@
 title: "Learning from Giants Without Standing in Their Shadow"
 description: "How to borrow wisdom from remarkable people without losing yourself."
 date: 2025-04-05T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-04-05T00:00:00Z
+tags:
+  - ai
+  - books
 ---
 
 I came across a quote earlier today that stopped me:

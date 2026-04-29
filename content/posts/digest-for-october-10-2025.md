@@ -2,6 +2,14 @@
 title: "Digest for October 10, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from October 10, 2025."
 date: 2025-10-10T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-10-10T00:00:00Z
+tags:
+  - ai
+  - books
+  - health
+  - politics
+  - weekly-digest
 ---
 
 ## 📰 **Reflection: The Shutdown Showdown**

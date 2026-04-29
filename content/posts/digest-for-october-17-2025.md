@@ -2,6 +2,14 @@
 title: "Digest for October 17, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from October 17, 2025."
 date: 2025-10-20T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-10-20T00:00:00Z
+tags:
+  - ai
+  - books
+  - civics
+  - history
+  - politics
 ---
 
 ## 🌎 **Reflection: The Contributions of Invasive Humans**

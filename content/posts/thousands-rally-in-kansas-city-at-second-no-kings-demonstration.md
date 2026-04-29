@@ -2,6 +2,13 @@
 title: "Thousands rally in Kansas City at second “No Kings” demonstration"
 description: "A dispatch from the second No Kings demonstration in Kansas City."
 date: 2025-10-20T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-10-20T00:00:00Z
+tags:
+  - ai
+  - civics
+  - parenting
+  - politics
 ---
 
 On Saturday afternoon, hundreds (and by some accounts thousands) of people gathered at the Country Club Plaza in Kansas City, Missouri, for the second wave of the nationwide “No Kings” protests — a coordinated effort of demonstrations held in over 2,600 U.S. locations. ([Reuters](https://www.reuters.com/world/us/no-kings-rallies-expected-draw-millions-across-us-protest-against-trump-2025-10-18/?utm_source=chatgpt.com))

@@ -2,6 +2,14 @@
 title: "Digest for September 26, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from September 26, 2025."
 date: 2025-09-26T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-26T00:00:00Z
+tags:
+  - ai
+  - investing
+  - parenting
+  - politics
+  - weekly-digest
 ---
 
 ## 🪞 A Reflection - Advice vs. Theater

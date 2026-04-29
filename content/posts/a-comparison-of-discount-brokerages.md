@@ -2,6 +2,13 @@
 title: "A Comparison of Discount Brokerages"
 description: "A comparison of discount brokerages for retired and new investors."
 date: 2025-09-24T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-24T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - investing
+  - philosophy
 ---
 
 Three firms dominate the discount brokerage world:&nbsp;**Fidelity, Schwab, and Vanguard**. All three deliver low-cost investing, but each has its own identity.

@@ -2,6 +2,14 @@
 title: "Digest for October 3, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from October 3, 2025."
 date: 2025-10-03T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-10-03T00:00:00Z
+tags:
+  - ai
+  - investing
+  - politics
+  - stoicism
+  - virtues
 ---
 
 ## 🪞 A Reflection

@@ -2,6 +2,12 @@
 title: "Five Ways Trump Could Be a Better President"
 description: "Honest constructive feedback for the 47th president, written without malice."
 date: 2025-08-27T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-08-27T00:00:00Z
+tags:
+  - ai
+  - health
+  - politics
 ---
 
 I’ve never seen much value in tearing a person down for the sake of it. Savage criticism might feel good in the moment, but it rarely changes minds. What does help is pointing to what could be better—offering constructive criticism that invites reflection and growth.

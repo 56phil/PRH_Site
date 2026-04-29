@@ -2,6 +2,14 @@
 title: "Digest for August 22, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from August 22, 2025."
 date: 2025-08-22T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-08-22T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - books
+  - essays
+  - investing
 ---
 
 ## 🪞 Reflection

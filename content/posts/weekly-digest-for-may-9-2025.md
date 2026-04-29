@@ -3,6 +3,8 @@ title: "Weekly Digest for May 9, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from May 9, 2025."
 date: 2025-05-09T00:00:00Z
 tags: [News]
+author: Phil Huffman
+lastmod: 2025-05-09T00:00:00Z
 ---
 
 ---

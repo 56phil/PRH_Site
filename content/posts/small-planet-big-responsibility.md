@@ -2,6 +2,13 @@
 title: "Small Planet, Big Responsibility"
 description: "The responsibility of stewardship in an age of environmental crisis."
 date: 2025-11-03T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-11-03T00:00:00Z
+tags:
+  - ai
+  - essays
+  - politics
+  - stoicism
 ---
 
 Look again at that pale blue dot.

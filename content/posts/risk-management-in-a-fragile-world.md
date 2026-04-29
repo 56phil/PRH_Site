@@ -2,6 +2,13 @@
 title: "Risk Management in a Fragile World"
 description: "Managing risk in a fragile world: what investors and citizens need to know."
 date: 2025-09-17T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-17T00:00:00Z
+tags:
+  - ai
+  - books
+  - investing
+  - politics
 ---
 
 Risk never sleeps. Markets can rise on Monday and unravel by Friday. Headlines about shutdowns, inflation, and tariffs compete with warnings from geopolitical strategists like Peter Zeihan, who argues that globalization itself is fraying. Whether you agree with his timelines or not, the underlying truth is simple: wealth isn’t built on prediction. It’s built on preparation.

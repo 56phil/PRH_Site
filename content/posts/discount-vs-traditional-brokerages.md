@@ -2,6 +2,11 @@
 title: "Discount vs. Traditional Brokerages"
 description: "Comparing discount and traditional brokerages for investors at every level."
 date: 2025-09-22T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-22T00:00:00Z
+tags:
+  - investing
+  - politics
 ---
 
 For decades, investors had little choice but to work with&nbsp;**traditional brokerages**&nbsp; These firms, like Merrill Lynch or Edward Jones, that charged high commissions, emphasized personal relationships, and offered full-service financial planning. Today,&nbsp;**discount brokerages**&nbsp;like Fidelity, Schwab, and Vanguard dominate, reshaping how individuals invest.

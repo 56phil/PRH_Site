@@ -2,6 +2,13 @@
 title: "The Psychology of Investing"
 description: "How fear, greed, and bias sabotage investment decisions—and how to resist them."
 date: 2025-09-29T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-29T00:00:00Z
+tags:
+  - ai
+  - investing
+  - parenting
+  - politics
 ---
 
 Investing isn’t just a numbers game—it’s an emotional one. Charts, spreadsheets, and allocation tables give us the illusion that investing is rational. But when real money is on the line, our brains often have other plans. Market drops, headlines, and the actions of others trigger deep-seated biases that can quietly sabotage even the smartest strategies. Understanding these psychological traps—and building systems to guard against them—is every bit as important as choosing the right investments.

@@ -2,6 +2,13 @@
 title: "Trump’s Greenland Gambit, Revisited"
 description: "Trump’s Greenland interest is real strategy, not distraction. Here’s why it matters."
 date: 2025-09-01T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-01T00:00:00Z
+tags:
+  - ai
+  - geopolitics
+  - investing
+  - politics
 ---
 
 Donald Trump didn’t invent American interest in Greenland, but he did put it on billboards. In August 2019, after Danish leaders called the idea of selling the island “absurd,” he canceled a planned state visit and posted the now-famous meme—“I promise not to do this to Greenland”—over a photoshopped Trump Tower jutting from a colorful coastal town. The theatrics were pure Trump; the target was not. Greenland sits on the seam between North America and Eurasia, with critical minerals underfoot and the U.S. military’s northernmost base at Pituffik guarding the polar approach. That mix of spectacle and strategic logic is the through-line of Trump’s Greenland story. ([Reuters](https://www.reuters.com/article/world/danish-pm-says-trumps-idea-of-selling-greenland-to-us-is-absurd-idUSKCN1V9076/?utm_source=chatgpt.com),&nbsp;[The Guardian](https://www.theguardian.com/world/2019/aug/19/trump-greenland-tower?utm_source=chatgpt.com))

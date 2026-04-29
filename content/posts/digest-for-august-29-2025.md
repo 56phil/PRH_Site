@@ -2,6 +2,14 @@
 title: "Digest for August 29, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from August 29, 2025."
 date: 2025-08-29T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-08-29T00:00:00Z
+tags:
+  - ai
+  - books
+  - geopolitics
+  - health
+  - parenting
 ---
 
 # 🪞 Reflection

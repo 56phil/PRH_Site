@@ -2,6 +2,14 @@
 title: "Digest for November 14, 2025"
 description: "Weekly digest: observations, recommendations, and reflections from November 14, 2025."
 date: 2025-11-14T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-11-14T00:00:00Z
+tags:
+  - ai
+  - civics
+  - essays
+  - politics
+  - stoicism
 ---
 
 ## 🪞 A Reflection

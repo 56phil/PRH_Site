@@ -2,6 +2,13 @@
 title: "Stoic Saturday #1"
 description: "Weekly digest: a collection of observations, recommendations, and personal reflections."
 date: 2026-04-18T00:00:00Z
+author: Phil Huffman
+lastmod: 2026-04-18T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - stoicism
+  - weekly-digest
 ---
 
 Subject: The Pause

@@ -2,6 +2,11 @@
 title: "Risk Management: The Investor’s Lifeline"
 description: "Risk management as the foundation of sustainable investing."
 date: 2025-09-16T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-16T00:00:00Z
+tags:
+  - ai
+  - investing
 ---
 
 Risk never sleeps. Whether markets are surging or headlines are screaming “shutdown,” the real question isn’t&nbsp;*what’s next?*&nbsp;but&nbsp;*am I ready?*&nbsp;Most investors focus on returns. Few spend enough time on risk. Yet it’s risk—not return—that decides whether you stay in the game long enough to win. Wealth isn’t built on predicting the future; it’s built on preparing for the unknown.

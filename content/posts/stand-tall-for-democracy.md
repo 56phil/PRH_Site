@@ -2,6 +2,14 @@
 title: "Stand Tall for Democracy"
 description: "Why standing up for democratic values matters now more than ever."
 date: 2025-06-12T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-06-12T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - civics
+  - essays
+  - politics
 ---
 
 In an era of rising disinformation, polarization, and institutional decay, it is no longer hyperbole to say that American liberal democracy is under serious threat. The freedoms and norms that once formed the backbone of this republic are being eroded from both within and without. But despite these dangers, or perhaps because of them, it is worth fighting to preserve what remains—and rebuild what has been lost.

@@ -2,6 +2,12 @@
 title: "PRH Digest for Mid June 2025"
 description: "Weekly digest: observations, recommendations, and reflections from mid-June 2025."
 date: 2025-06-15T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-06-15T00:00:00Z
+tags:
+  - ai
+  - neurodivergence
+  - weekly-digest
 ---
 
 **Theme**: *The Discipline of Hope &amp; Standing Tall for Things That Matter*

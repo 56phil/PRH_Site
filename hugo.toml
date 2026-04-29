@@ -7,6 +7,7 @@ pluralizeListTitles = false
 
 [params]
   author = 'Phil Huffman'
+  keywords = ["Stoicism", "philosophy", "books", "writing", "critical thinking", "civics", "virtue", "personal development", "wisdom", "ethics"]
   description = 'Writings on Stoicism, philosophy, and life'
   ShowReadingTime = true
   ShowPostNavLinks = true
@@ -23,9 +24,22 @@ pluralizeListTitles = false
   showtoc = true
   tocopen = false
 
+  [params.schema]
+    publisherType = 'Person'
+    sameAs = ['https://huffmanwrites.org']
+
   [params.homeInfoParams]
     Title = "Huffman Writes"
     Content = "Writings on Stoicism, philosophy, and the pursuit of a well-lived life"
+
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon.ico"
+    favicon32x32 = "favicon.ico"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "favicon.svg"
+    theme_color = "#1a1a1a"
+    msapplication_TileColor = "#1a1a1a"
 
   [[params.socialIcons]]
     name = 'website'

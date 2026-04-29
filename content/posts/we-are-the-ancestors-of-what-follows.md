@@ -2,6 +2,13 @@
 title: "We Are the Ancestors of What Follows"
 description: "We are not history’s endpoint—we are the ancestors of what comes next."
 date: 2025-04-24T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-04-24T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - parenting
+  - politics
 ---
 
 We often think of ourselves as the end result of history’s long arc. The inheritors. The living echoes of those who came before. And while that’s true, it’s not the whole truth.

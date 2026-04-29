@@ -2,6 +2,14 @@
 title: "All My Books"
 description: "A catalog of every book Phil has written, from Unstuck to Stoic Backgammon."
 date: 2026-03-14T00:00:00Z
+author: Phil Huffman
+lastmod: 2026-03-14T00:00:00Z
+tags:
+  - announcement
+  - books
+  - civics
+  - essays
+  - games
 ---
 
 <link rel="stylesheet" href="/css/phbooks.css">

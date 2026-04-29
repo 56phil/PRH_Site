@@ -2,6 +2,14 @@
 title: "Proud to Be Woke"
 description: "If caring about people makes me woke, then I’ll wear the word like a medal."
 date: 2025-08-11T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-08-11T00:00:00Z
+tags:
+  - ai
+  - civics
+  - essays
+  - parenting
+  - politics
 ---
 
 If caring about people makes me woke, then I’ll wear the word like a medal. Somewhere along the way, a simple idea—that we should stay alert to injustice and aware of the struggles of others—was dragged through the mud. The word “woke” didn’t come from politicians or pundits; it came from ordinary people warning each other to keep their eyes open, to see the truth, to act with compassion. It was a call to vigilance, not a declaration of war. I don’t believe being woke is a cause for shame. I believe shame belongs to those who mock it.

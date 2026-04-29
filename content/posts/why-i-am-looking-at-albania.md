@@ -2,6 +2,14 @@
 title: "Why I am Looking at Albania"
 description: "I’m chasing a better use of my remaining time."
 date: 2025-08-19T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-08-19T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - health
+  - parenting
+  - politics
 ---
 
 I’m not chasing a fantasy of elsewhere. I’m chasing a better use of my remaining time. Albania keeps coming up because it offers something I can’t seem to buy in the States at any reasonable price: a quieter life that still feels alive.

@@ -2,6 +2,14 @@
 title: "Starting to Invest After Retirement"
 description: "Starting to invest after retirement: what matters and what to avoid."
 date: 2025-09-08T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-08T00:00:00Z
+tags:
+  - ai
+  - announcement
+  - books
+  - health
+  - investing
 ---
 
 I used to believe investing was something you did while you worked. You built a nest egg, retired, and lived off it. Simple. But when retirement arrived, I quickly learned the story doesn’t end there. Retirement isn’t the finish line—it’s the start of a new chapter. And in this chapter, investing takes on a different purpose.

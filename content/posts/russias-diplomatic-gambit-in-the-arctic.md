@@ -2,6 +2,12 @@
 title: "Russia’s Diplomatic Gambit in the Arctic"
 description: "Russia’s Arctic strategy: expanding influence where the world is only beginning to compete."
 date: 2025-09-03T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-09-03T00:00:00Z
+tags:
+  - ai
+  - geopolitics
+  - politics
 ---
 
 For much of the post–Cold War era, the Arctic was hailed as a zone of cooperation. Even adversaries found common ground on search and rescue, fisheries, and scientific monitoring in a region where survival demands collaboration. That consensus has fractured. At the center of the disruption is Russia, which now treats Arctic diplomacy not as a platform for shared stewardship, but as a stage to counter its isolation, secure partners, and project power.

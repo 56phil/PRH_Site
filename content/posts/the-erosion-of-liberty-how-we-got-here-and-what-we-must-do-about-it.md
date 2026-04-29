@@ -2,6 +2,11 @@
 title: "The Erosion of Liberty: How We Got Here—And What We Must Do About It"
 description: "How liberty erodes incrementally—and what citizens must do to reclaim it."
 date: 2025-04-10T00:00:00Z
+author: Phil Huffman
+lastmod: 2025-04-10T00:00:00Z
+tags:
+  - ai
+  - politics
 ---
 
 >  *“The natural progress of things is for liberty to yield, and government to gain ground.”*
