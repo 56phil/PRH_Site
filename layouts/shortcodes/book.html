@@ -4,13 +4,13 @@
 {{- $link := .Get "link" -}}
 
 <div class="book-entry">
-{{- if $img -}}
 <div class="book-cover">
+{{- if $img -}}
 {{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}
 <img src="/{{ $img }}" alt="{{ $title }} cover" loading="lazy">
 {{- if $link -}}</a>{{- end -}}
-</div>
 {{- end -}}
+</div>
 <div class="book-info">
 <h3>{{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}{{ $title }}{{- if $link -}}</a>{{- end -}}</h3>
 <p>{{ $subtitle }}</p>
