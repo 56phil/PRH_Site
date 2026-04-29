@@ -1,5 +1,6 @@
 ---
 title: "Digest for January 2, 2026"
+description: "Weekly digest: observations, recommendations, and reflections from January 2, 2026."
 date: 2026-01-02T00:00:00Z
 ---
 

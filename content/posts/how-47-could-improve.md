@@ -1,5 +1,6 @@
 ---
 title: "Five Ways Trump Could Be a Better President"
+description: "Honest constructive feedback for the 47th president, written without malice."
 date: 2025-08-27T00:00:00Z
 ---
 

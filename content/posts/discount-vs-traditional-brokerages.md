@@ -1,5 +1,6 @@
 ---
 title: "Discount vs. Traditional Brokerages"
+description: "Comparing discount and traditional brokerages for investors at every level."
 date: 2025-09-22T00:00:00Z
 ---
 

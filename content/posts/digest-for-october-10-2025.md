@@ -1,5 +1,6 @@
 ---
 title: "Digest for October 10, 2025"
+description: "Weekly digest: observations, recommendations, and reflections from October 10, 2025."
 date: 2025-10-10T00:00:00Z
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Indigenous Peoples Day"
+description: "Honoring Indigenous Peoples Day and confronting the erasure of native history."
 date: 2025-10-13T00:00:00Z
 ---
 

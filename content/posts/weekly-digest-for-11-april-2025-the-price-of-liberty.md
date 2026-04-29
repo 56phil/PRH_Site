@@ -1,5 +1,6 @@
 ---
 title: "Weekly Digest for 11 April, 2025 : The Price of Liberty"
+description: "Weekly digest: a collection of observations, recommendations, and personal reflections."
 date: 2025-04-11T00:00:00Z
 tags: [News]
 ---

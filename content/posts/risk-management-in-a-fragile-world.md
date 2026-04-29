@@ -1,5 +1,6 @@
 ---
 title: "Risk Management in a Fragile World"
+description: "Managing risk in a fragile world: what investors and citizens need to know."
 date: 2025-09-17T00:00:00Z
 ---
 

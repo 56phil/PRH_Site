@@ -1,5 +1,6 @@
 ---
 title: "Why Dollar-Cost Averaging Beats Market Timing"
+description: "Why dollar-cost averaging beats market timing for most investors."
 date: 2025-09-10T00:00:00Z
 ---
 

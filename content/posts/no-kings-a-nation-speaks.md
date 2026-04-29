@@ -1,5 +1,6 @@
 ---
 title: "No Kings: A Nation Speaks"
+description: "A nation without kings: why Americans reject authoritarianism."
 date: 2025-06-16T00:00:00Z
 ---
 

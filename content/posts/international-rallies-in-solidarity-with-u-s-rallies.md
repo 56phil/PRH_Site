@@ -1,5 +1,6 @@
 ---
 title: "International Rallies in Solidarity with U.S. Rallies"
+description: "While the bulk of the “No Kings” protests unfolded across the United States, the movement found resonance in international communities as well — signaling..."
 date: 2025-11-07T00:00:00Z
 ---
 

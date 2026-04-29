@@ -1,5 +1,6 @@
 ---
 title: "Learning from Giants Without Standing in Their Shadow"
+description: "How to borrow wisdom from remarkable people without losing yourself."
 date: 2025-04-05T00:00:00Z
 ---
 

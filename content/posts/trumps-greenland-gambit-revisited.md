@@ -1,5 +1,6 @@
 ---
 title: "Trump’s Greenland Gambit, Revisited"
+description: "Trump’s Greenland interest is real strategy, not distraction. Here’s why it matters."
 date: 2025-09-01T00:00:00Z
 ---
 

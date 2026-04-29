@@ -1,5 +1,6 @@
 ---
 title: "On AI as a Writing Assistant"
+description: "How I came to use artificial intelligence as a partner in the writing process."
 date: 2026-04-10T00:00:00Z
 ---
 

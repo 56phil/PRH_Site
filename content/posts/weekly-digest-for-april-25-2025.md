@@ -1,5 +1,6 @@
 ---
 title: "Weekly Digest for April 25. 2025"
+description: "Weekly digest: observations, recommendations, and reflections from April 25. 2025."
 date: 2025-04-25T00:00:00Z
 tags: [News]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Weekly Digest – April 18, 2025"
+description: "Weekly digest: observations, recommendations, and reflections from April 18, 2025."
 date: 2025-04-18T00:00:00Z
 tags: [News]
 ---

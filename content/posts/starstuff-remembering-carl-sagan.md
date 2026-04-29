@@ -1,5 +1,6 @@
 ---
 title: "Starstuff: Remembering Carl Sagan"
+description: "Remembering Carl Sagan, his cosmic perspective, and what it means to be starstuff."
 date: 2025-11-10T00:00:00Z
 ---
 

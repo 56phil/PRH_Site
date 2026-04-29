@@ -1,5 +1,6 @@
 ---
 title: "Digest for November 7, 2025"
+description: "Weekly digest: observations, recommendations, and reflections from November 7, 2025."
 date: 2025-11-07T00:00:00Z
 ---
 

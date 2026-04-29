@@ -1,5 +1,6 @@
 ---
 title: "Russia’s Diplomatic Gambit in the Arctic"
+description: "Russia’s Arctic strategy: expanding influence where the world is only beginning to compete."
 date: 2025-09-03T00:00:00Z
 ---
 

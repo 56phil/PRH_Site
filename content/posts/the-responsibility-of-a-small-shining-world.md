@@ -1,5 +1,6 @@
 ---
 title: "The Responsibility of a Small, Shining World"
+description: "Our shared duty to protect the fragile planet we call home."
 date: 2025-11-05T00:00:00Z
 ---
 

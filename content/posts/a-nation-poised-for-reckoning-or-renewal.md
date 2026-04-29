@@ -1,5 +1,6 @@
 ---
 title: "🧭 A Nation Poised for Reckoning—or Renewal"
+description: "America at the crossroads: reckoning with corruption or renewing democratic values."
 date: 2025-05-18T00:00:00Z
 ---
 

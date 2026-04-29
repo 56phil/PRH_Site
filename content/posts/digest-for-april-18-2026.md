@@ -1,5 +1,6 @@
 ---
 title: "Stoic Saturday #1"
+description: "Weekly digest: a collection of observations, recommendations, and personal reflections."
 date: 2026-04-18T00:00:00Z
 ---
 

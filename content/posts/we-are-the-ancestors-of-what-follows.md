@@ -1,5 +1,6 @@
 ---
 title: "We Are the Ancestors of What Follows"
+description: "We are not history’s endpoint—we are the ancestors of what comes next."
 date: 2025-04-24T00:00:00Z
 ---
 

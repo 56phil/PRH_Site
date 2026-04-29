@@ -1,5 +1,6 @@
 ---
 title: "Proud to Be Woke"
+description: "If caring about people makes me woke, then I’ll wear the word like a medal."
 date: 2025-08-11T00:00:00Z
 ---
 

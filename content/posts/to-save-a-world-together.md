@@ -1,5 +1,6 @@
 ---
 title: "To Save a World Together"
+description: "What the Pale Blue Dot teaches us about planetary responsibility and shared fate."
 date: 2025-04-21T00:00:00Z
 ---
 
