@@ -1,0 +1,13 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range site.Params.socialIcons }}
+    {{- $title := (.title | default .name) | title }}
+    {{- $url := trim .url " " | safeURL }}
+    <a href="{{ $url }}" target="_blank" rel="noopener noreferrer me" title="{{ $title }}">
+        {{- if eq (lower .name) "amazon" -}}
+            <span style="font-weight: 700; font-family: var(--font-header); display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px;">A</span>
+        {{- else -}}
+            {{- partial "svg.html" . -}}
+        {{- end -}}
+    </a>
+    {{- end }}
+</div>

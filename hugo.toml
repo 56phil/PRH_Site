@@ -88,3 +88,11 @@ pluralizeListTitles = false
     name = 'Tags'
     url = '/tags/'
     weight = 30
+
+[[params.socialIcons]]
+  name = "website"
+  url = "https://huffmanwrites.org"
+[[params.socialIcons]]
+  name = "amazon"
+  url = "https://www.amazon.com/author/philip.huffman"
+
