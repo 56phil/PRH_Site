@@ -1,6 +1,6 @@
 ---
 title: "Stoic Backgammon"
-description: "Where the ancient game meets ancient philosophy. A practical exploration of how Stoic principles 중심으로 apply both at the board and in life."
+description: "Where the ancient game meets ancient philosophy. A practical exploration of how Stoic principles 중심으로 apply both at the board and in life. "
 date: 2026-04-30T00:00:00Z
 image: "img/books/stoic-backgammon.jpg"
 amazon_link: "https://www.amazon.com/dp/B0GXW6KRDH"
