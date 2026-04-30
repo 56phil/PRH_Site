@@ -1,6 +1,6 @@
 ---
 title: "Books"
-description: "The complete list of Philip Huffman's books — Stoicism, practical philosophy, and life itself."
+description: "The complete list of Philip Huffman's books — Stoicism, practical philosophy, and life itself. "
 ---
 
 Welcome to the library. Each book listed below is a gateway to a deeper exploration of the themes, tensions, and philosophies that define my work.
