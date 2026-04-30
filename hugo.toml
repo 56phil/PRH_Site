@@ -42,11 +42,17 @@ pluralizeListTitles = false
     msapplication_TileColor = "#1a1a1a"
 
   [[params.socialIcons]]
-    name = 'website'
-    url = 'https://huffmanwrites.org'
+    name = 'Explore Books'
+    url = '/books/'
   [[params.socialIcons]]
     name = 'rss'
     url = 'https://huffmanwrites.org/index.xml'
+  [[params.socialIcons]]
+    name = 'Latest Posts'
+    url = '/posts/'
+  [[params.socialIcons]]
+    name = 'amazon'
+    url = 'https://www.amazon.com/author/philip.huffman'
 
 [markup]
   [markup.goldmark]
@@ -88,11 +94,3 @@ pluralizeListTitles = false
     name = 'Tags'
     url = '/tags/'
     weight = 30
-
-[[params.socialIcons]]
-  name = "website"
-  url = "https://huffmanwrites.org"
-[[params.socialIcons]]
-  name = "amazon"
-  url = "https://www.amazon.com/author/philip.huffman"
-
