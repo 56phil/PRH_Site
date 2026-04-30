@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<style>
+  .dashboard { max-width: 900px; margin: 0 auto; padding: var(--gap); }
+  .book-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--gap); margin-top: 2rem; }
+  .book-card { padding: 1rem; background: var(--entry); border-radius: 8px; border: 1px solid hsla(var(--primary-h), var(--primary-s), var(--primary-l), 0.1); }
+  .latest-posts { margin-top: 3rem; border-top: 1px solid var(--border); padding-top: 2rem; }
+</style>
+
+<div class="dashboard">
+
+  <section class="mission">
+    {{ .Content }}
+  </section>
+
+  <section>
+    <h2>The Library</h2>
+    <div class="book-grid">
+      {{ with .Site.GetPage "books" }}
+        {{ range .Pages }}
+          <div class="book-card">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            {{ if .Params.description }}<p>{{ .Params.description }}</p>{{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="latest-posts">
+    <h2>Latest Insights</h2>
+    {{ range first 5 .Site.RegularPages }}
+      {{ if ne .Type "books" }}
+        <article>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <time>{{ .Date.Format "2006-01-02" }}</time>
+          <p>{{ .Summary }}</p>
+        </article>
+      {{ end }}
+    {{ end }}
+  </section>
+
+</div>
+
+{{ end }}
